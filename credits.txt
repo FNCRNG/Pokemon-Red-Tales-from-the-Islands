@@ -1,0 +1,263 @@
+Lead Developer:
+Zerokid
+
+
+
+Special Thanks to:
+JohtoBlaziken
+(https://www.pokecommunity.com/showthread.php?t=407866)
+
+
+
+"Pokémon Essentials" was created by:
+Flameguru
+Poccil (Peter O.)
+Maruno
+
+With contributions from:
+AvatarMonkeyKirby
+Luka S.J.
+Boushy
+MiDas Mike
+Brother1440
+Near Fantastica
+FL.
+PinkMan
+Genzai Kawakami
+Popper
+help-14
+Rataime
+IceGod64
+SoundSpawn
+Jacob O. Wobbrock
+the__end
+KitsuneKouta
+Venom12
+Lisa Anthony
+Wachunga
+and everyone else who helped out
+
+
+
+"RPG Maker XP" by:
+Enterbrain
+
+
+
+Pokémon Essentials with version control:
+Raku
+Gegerlan
+(https://github.com/rakudayo/rmxp-plugin-system)
+
+griest024
+(https://github.com/griest024/PKMNEssentialsPlugin)
+
+
+
+MKXP:
+Ancurio
+(https://github.com/Ancurio/mkxp)
+
+night-burst
+(https://github.com/night-burst/mkxp-z)
+
+
+
+Custom Sprites:
+All contributors to the Smogon XY Sprite Project
+(https://www.smogon.com/forums/threads/xy-sprite-project-read-1st-post-release-v1-1-on-post-3240.3486712/)
+
+All contributors to the Smogon Sun/Moon Sprite Project
+(https://www.smogon.com/forums/threads/sun-moon-sprite-project-dawn-of-a-new-day.3577711/)
+
+All contributors to the Smogon Sword/Shield Sprite Project
+(https://www.smogon.com/forums/threads/sword-shield-sprite-project.3647722/)
+
+Other Gen VII sprites:
+Amethyst
+Jan
+Zumi
+Bazaro
+Koyo
+Smeargletail
+Alex
+Noscium
+Leparagon
+N-kin
+fishbowlsoul90
+princess-phoenix
+DatLopunnyTho
+Conyjams
+kaji atsu
+The cynical poet
+LuigiPlayer
+Falgaia
+Pikafan2000
+Lord-Myre
+MillaLya
+(http://www.rebornevo.com/forum/index.php?/topic/24410-gen-7-sprite-pack/)
+(https://www.pokecommunity.com/showthread.php?t=406404)
+
+Officer Jenny sprite:
+Silver
+(http://spritedatabase.net/custom/170)
+
+vs. Blue transition sprite:
+RadicalRaptr
+(https://radicalraptr.deviantart.com/art/VS-Gary-355355791)
+
+vs. Leaf transition sprite:
+SakuraMota
+(https://sakuramota.deviantart.com/art/VS-Trainer-Leaf-192477858)
+
+HGSS-style Sevii Islands map:
+shivanking
+(https://shivanking.deviantart.com/art/Sevii-Islands-HGSS-Style-131586530)
+
+Jessie and James overworld and battle sprites:
+Ody-chan
+(https://www.deviantart.com/ody-chan/art/GBA-Jessie-and-James-353030680)
+
+Mew title screen sprite:
+SpeedXaaa
+(https://www.deviantart.com/speedxaaa/art/Hi-Res-BW-Mew-354551724)
+
+Mina overworld sprite:
+aveontrainer
+(https://www.deviantart.com/aveontrainer/art/Mina-795509367)
+
+Mina battle sprite:
+Beliot419
+(https://www.deviantart.com/beliot419/art/Custom-sprite-Mina-651337381)
+
+Steven overworld sprite:
+HyperTurtle32
+(https://www.deviantart.com/hyperturtle32/art/Steven-Stone-FRLG-style-395153567)
+
+
+
+Maps:
+
+Cerulean Cave, all of Six Island
+JohtoBlaziken
+(https://www.pokecommunity.com/showthread.php?t=407866)
+
+
+
+Resource Rips:
+
+Pokémon overworld sprites:
+Neo-Spriteman
+(https://www.pokecommunity.com/showthread.php?t=250115)
+
+Pokémon cries:
+Random Talking Bush
+(https://www.sounds-resource.com/3ds/pokemonsunmoon/)
+
+Music:
+JohtoBlaziken
+(https://www.pokecommunity.com/showthread.php?t=407866)
+
+Font:
+keegan
+(https://www.cufonfonts.com/font/pokemon-fire-red)
+
+Battle Animations:
+Amethyst and the Pokémon Reborn team
+(http://www.rebornevo.com/index.php?/pr/index.html/)
+
+
+
+Custom Scripts:
+(sometimes modified and expanded by Zerokid)
+
+Moves and Abilities:
+Marin
+Zeak6464
+Tapu Fini
+SpartaLazor
+leparagon
+BlackOutG5
+Rune
+M3rein
+Rigbycwts
+Rot8er_ConeX
+James Davy
+Luka S.J.
+WolfPP
+Amethyst and the Pokémon Reborn team
+(https://www.pokecommunity.com/showthread.php?t=387706)
+(https://www.pokecommunity.com/showthread.php?t=384729)
+(https://www.pokecommunity.com/showthread.php?t=383035)
+(https://www.pokecommunity.com/showthread.php?t=379220)
+(https://www.pokecommunity.com/showthread.php?t=422817)
+(http://www.rebornevo.com/index.php?/pr/index.html/)
+
+Speedup script:
+KleinStudio
+(https://kleinstudio.deviantart.com/art/SCRIPT-Speedup-in-debug-mode-538842421)
+
+Battle points script:
+Aurum / SunakazeKun
+(https://www.pokecommunity.com/showthread.php?p=9832524)
+
+Pokémon Tower Ghosts script:
+Desbrina
+(http://pokemonessentials.wikia.com/wiki/Tutorial:Adding_ghosts)
+
+Replace Party Pokémon script:
+Jonas930
+(https://reliccastle.com/resources/176/)
+
+RGSS FmodEx extension:
+Nuri Yuri
+(https://www.pokecommunity.com/showthread.php?t=349496)
+
+Spinning Tile script:
+Johto Blaziken
+(https://www.pokecommunity.com/showthread.php?t=407866)
+
+
+
+Mechanics Research:
+Zarel and all contributors to Pokémon Showdown 
+(https://pokemonshowdown.com/)
+
+Bulbapedia contributors
+(https://bulbapedia.bulbagarden.net/wiki/Main_Page)
+
+All contributors to the Smogon Thread "Pokemon Sun/Moon Battle Mechanics Research"
+(https://www.smogon.com/forums/threads/pokemon-sun-moon-battle-mechanics-research.3586701/)
+
+Dataminers:
+SciresM
+Kaphotics
+Marty
+KazoWar
+and all the others who assisted in datamining
+(https://www.smogon.com/forums/threads/ultra-sun-ultra-moon-datamine-thread.3620028/)
+(https://www.smogon.com/forums/threads/list-of-movepool-changes-new-isle-of-armor-additions.3656151/)
+
+
+
+Bug reports and feedback:
+RenElite
+looneyman1
+calvinsyrus
+Drakyle
+Deo
+Mr. Gela
+AnubisRa
+Reapurfection
+aw0211
+Zurich899
+ABSPitbull
+HeavenLandDemon
+BriLuna
+Eternal0verride
+Neto19
+Pumone
+Lunos
+Dannaki
+Vile MaverickZXA
+ninja0123

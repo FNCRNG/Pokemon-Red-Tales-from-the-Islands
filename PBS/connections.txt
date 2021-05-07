@@ -1,0 +1,244 @@
+# Route 18 (199) - Route 17 (198)
+199,North,0,198,South,6
+# Route 16 (195) - Route 17 (198)
+195,South,0,198,North,0
+# Route 16 (194) - Celadon City (171)
+194,East,0,171,West,0
+# Route 7 (169) - Celadon City (171)
+169,West,0,171,East,0
+# Indigo Plateau (317) - Route 23 (313)
+317,South,0,313,North,4
+# Water Labyrinth (37) - Resort Gorgeous (38)
+37,North,0,38,South,0
+# Memorial Pillar (47) - Five Isle Meadow (45)
+47,West,0,45,East,0
+# Five Island (31) - Five Isle Meadow (45)
+31,East,0,45,West,0
+# Water Labyrinth (37) - Five Isle Meadow (45)
+37,South,76,45,North,0
+# Water Labyrinth (37) - Memorial Pillar (47)
+37,South,100,47,North,0
+# Water Labyrinth (37) - Five Island (31)
+37,South,0,31,North,0
+# Ruin Valley (57) - Six Island (49)
+57,North,27,49,South,0
+# Green Path (64) - Six Island (49)
+64,South,54,49,North,0
+# Water Path (54) - Six Island (49)
+54,West,42,49,East,0
+# Green Path (64) - Outcast Island (66)
+64,North,0,66,South,0
+# Water Path (54) - Outcast Island (66)
+54,West,0,66,East,73
+# Water Path (54) - Ruin Valley (57)
+54,West,81,57,East,0
+# Water Path (54) - Green Path (64)
+54,West,2,64,East,0
+# Canyon Entrance (78) - Sevault Canyon (88)
+78,East,18,88,West,0
+# Tanoby Ruins (328) - Sevault Canyon (88)
+328,North,54,88,South,0
+# Canyon Entrance (78) - Dummy Water (336)
+78,West,85,336,East,0
+# Tanoby Ruins (328) - Dummy Water (336)
+328,North,0,336,South,0
+# Dummy Water (337) - Canyon Entrance (78)
+337,West,0,78,East,0
+# Tanoby Ruins (328) - Canyon Entrance (78)
+328,North,22,78,South,0
+# Seven Island (70) - Canyon Entrance (78)
+70,South,0,78,North,2
+# Seven Island (70) - Dummy Water (337)
+70,South,30,337,North,0
+# Seven Island (70) - Trainer Tower (75)
+70,North,0,75,South,6
+# Viridian City (7) - Route 1 (5)
+7,South,6,5,North,0
+# Pallet Town (2) - Route 1 (5)
+2,North,0,5,South,0
+# Route 20 Water (311) - Route 1 (5)
+311,West,0,5,East,120
+# Route 22 (32) - Route 1 (5)
+32,South,59,5,North,0
+# Route 21 (310) - Cinnabar Island (264)
+310,South,0,264,North,0
+# Route 20 (256) - Cinnabar Island (264)
+256,West,0,264,East,0
+# Route 20 Water (311) - Cinnabar Island (264)
+311,South,0,264,North,36
+# Route 25 (111) - Route 4 (110)
+111,South,0,110,North,121
+# Cerulean City (100) - Route 4 (110)
+100,West,0,110,East,0
+# Route 4 (95) - Route 4 (110)
+95,East,0,110,West,6
+# Route 3 (79) - Route 4 (110)
+79,East,0,110,West,30
+# Route 5 (114) - Route 4 (110)
+114,West,0,110,East,40
+# Route 24 (109) - Route 4 (110)
+109,South,0,110,North,81
+# Route 11 (129) - Vermilion City (122)
+129,West,0,122,East,6
+# Route 9 (146) - Vermilion City (122)
+146,West,155,122,East,0
+# Route 14 (229) - Vermilion City (122)
+229,West,0,122,East,69
+# Route 6 (120) - Vermilion City (122)
+120,South,0,122,North,2
+# Cerulean City (100) - Route 25 (111)
+100,North,36,111,South,0
+# Route 24 (109) - Route 25 (111)
+109,East,0,111,West,1
+# Route 10 Rock (233) - Cerulean City (100)
+233,North,0,100,South,100
+# Route 11 (129) - Cerulean City (100)
+129,West,0,100,East,166
+# Route 9 (146) - Cerulean City (100)
+146,West,0,100,East,5
+# Route 14 (229) - Cerulean City (100)
+229,West,0,100,East,229
+# Route 5 (114) - Cerulean City (100)
+114,North,0,100,South,0
+# Route 24 (109) - Cerulean City (100)
+109,South,4,100,North,0
+# Route 22 (32) - Viridian City (7)
+32,East,0,7,West,6
+# Route 2 (43) - Viridian City (7)
+43,South,2,7,North,0
+# Route 3 (79) - Route 4 (95)
+79,North,0,95,South,0
+# Pewter City (87) - Route 4 (95)
+87,East,0,95,West,9
+# Route 2 (43) - Route 4 (95)
+43,East,0,95,West,54
+# Route 12 (134) - Route 13 (227)
+134,West,119,227,East,0
+# Lavender Town (151) - Route 13 (227)
+151,West,139,227,East,0
+# Route 13 (228) - Route 13 (227)
+228,West,0,227,East,1
+# Route 14 (229) - Route 13 (227)
+229,East,0,227,West,0
+# Route 10 (147) - Route 13 (227)
+147,West,224,227,East,0
+# Route 20 (256) - Route 19 (255)
+256,East,0,255,West,40
+# Route 18 (201) - Route 19 (255)
+201,South,41,255,North,0
+# Route 20 Water (311) - Route 19 (255)
+311,East,0,255,West,0
+# Fuchsia City (202) - Route 19 (255)
+202,South,12,255,North,0
+# Route 15 (230) - Route 19 (255)
+230,West,71,255,East,0
+# Pallet Town (2) - Route 21 (310)
+2,South,0,310,North,0
+# Route 20 (256) - Route 21 (310)
+256,North,0,310,South,30
+# Route 20 Water (311) - Route 21 (310)
+311,West,0,310,East,60
+# Route 20 Water (311) - Pallet Town (2)
+311,West,0,2,East,80
+# Pewter City (87) - Route 3 (79)
+87,East,15,79,West,0
+# Route 2 (43) - Route 3 (79)
+43,East,0,79,West,30
+# Route 12 (134) - Route 10 Rock (233)
+134,West,0,233,East,70
+# Lavender Town (151) - Route 10 Rock (233)
+151,West,0,233,East,50
+# Route 13 (228) - Route 10 Rock (233)
+228,West,0,233,East,190
+# Route 9 (146) - Route 10 Rock (233)
+146,South,52,233,North,0
+# Route 10 (147) - Route 10 Rock (233)
+147,West,35,233,East,0
+# Route 8 (164) - Route 10 Rock (233)
+164,North,53,233,South,0
+# Lavender Town (151) - Route 12 (134)
+151,South,0,134,North,0
+# Route 13 (228) - Route 12 (134)
+228,North,0,134,South,0
+# Route 12 Rock (338) - Route 12 (134)
+338,East,0,134,West,5
+# Route 11 (129) - Route 12 (134)
+129,East,0,134,West,56
+# Route 9 (146) - Route 12 (134)
+146,East,105,134,West,0
+# Route 8 (164) - Route 12 (134)
+164,East,24,134,West,0
+# Route 12 Rock (338) - Lavender Town (151)
+338,East,0,151,West,25
+# Route 11 (129) - Lavender Town (151)
+129,East,0,151,West,76
+# Route 9 (146) - Lavender Town (151)
+146,East,85,151,West,0
+# Route 10 (147) - Lavender Town (151)
+147,South,0,151,North,0
+# Route 8 (164) - Lavender Town (151)
+164,East,4,151,West,0
+# Route 12 Rock (338) - Route 13 (228)
+338,East,115,228,West,0
+# Route 11 (129) - Route 13 (228)
+129,East,64,228,West,0
+# Route 9 (146) - Route 13 (228)
+146,East,225,228,West,0
+# Route 8 (164) - Route 13 (228)
+164,East,144,228,West,0
+# Route 11 (129) - Route 12 Rock (338)
+129,North,52,338,South,0
+# Route 10 (147) - Route 12 Rock (338)
+147,West,110,338,East,0
+# Route 8 (164) - Route 12 Rock (338)
+164,South,53,338,North,0
+# Route 10 (147) - Route 11 (129)
+147,West,161,129,East,0
+# Route 15 (230) - Route 11 (129)
+230,East,0,129,West,63
+# Route 10 (147) - Route 9 (146)
+147,West,0,146,East,0
+# Route 5 (114) - Route 9 (146)
+114,North,48,146,South,0
+# Route 15 (230) - Route 9 (146)
+230,East,0,146,West,224
+# Route 20 Water (311) - Route 20 (256)
+311,South,0,256,North,6
+# Route 20 Water (311) - Route 18 (201)
+311,North,73,201,South,0
+# Fuchsia City (202) - Route 18 (201)
+202,West,0,201,East,0
+# Fuchsia City (202) - Route 20 Water (311)
+202,South,0,311,North,102
+# Route 15 (230) - Route 14 (229)
+230,East,0,229,West,0
+# Route 8 (164) - Route 10 (147)
+164,East,0,147,West,81
+# Route 15 (230) - Fuchsia City (202)
+230,West,30,202,East,0
+# Route 2 (43) - Pewter City (87)
+43,North,0,87,South,2
+# Kindle Road Rocks (277) - Kindle Road (276)
+277,East,0,276,West,0
+# Treasure Beach (279) - Kindle Road (276)
+279,East,0,276,West,140
+# One Island (274) - Kindle Road (276)
+274,East,0,276,West,119
+# One Island (274) - Kindle Road Rocks (277)
+274,North,7,277,South,0
+# One Island (274) - Treasure Beach (279)
+274,South,0,279,North,2
+# Mt. Silver (350) - Route 28 (349)
+350,East,12,349,West,0
+# Three Island (297) - Bond Bridge (308)
+297,West,0,308,East,2
+# Three Isle Port (299) - Bond Bridge (308)
+299,North,0,308,South,114
+# Three Isle Port (299) - Three Island (297)
+299,North,2,297,South,0
+# Cape Bellowe (360) - Cape Brink (292)
+360,West,0,292,East,23
+# Two Island (290) - Cape Brink (292)
+290,North,0,292,South,0
+# Two Island (290) - Cape Bellowe (360)
+290,East,0,360,West,10

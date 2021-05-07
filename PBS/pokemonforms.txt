@@ -1,0 +1,2073 @@
+﻿#-------------------------------
+[VENUSAUR-1]
+FormName=Mega Venusaur
+MegaStone=VENUSAURITE
+BaseStats=80,100,123,80,122,120
+BaseEXP=281
+Abilities=THICKFAT
+Height=2.4
+Weight=155.5
+BattlerPlayerY=8
+BattlerEnemyY=14
+#-------------------------------
+[CHARIZARD-1]
+FormName=Mega Charizard X
+MegaStone=CHARIZARDITEX
+Type1=FIRE
+Type2=DRAGON
+BaseStats=78,130,111,100,130,85
+BaseEXP=285
+Abilities=TOUGHCLAWS
+Weight=110.5
+Color=Black
+BattlerPlayerY=7
+BattlerEnemyY=11
+#-------------------------------
+[CHARIZARD-2]
+FormName=Mega Charizard Y
+MegaStone=CHARIZARDITEY
+BaseStats=78,130,111,100,130,85
+BaseEXP=285
+Abilities=DROUGHT
+Weight=100.5
+BattlerPlayerY=3
+#-------------------------------
+[BLASTOISE-1]
+FormName=Mega Blastoise
+MegaStone=BLASTOISINITE
+BaseStats=79,103,120,78,135,115
+BaseEXP=284
+Abilities=MEGALAUNCHER
+Weight=101.1
+BattlerPlayerY=8
+BattlerEnemyY=13
+#-------------------------------
+[BEEDRILL-1]
+FormName=Mega Beedrill
+MegaStone=BEEDRILLITE
+BaseStats=65,150,40,145,15,80
+BaseEXP=223
+Abilities=ADAPTABILITY
+Height=1.4
+Weight=40.5
+BattlerPlayerY=14
+BattlerEnemyY=12
+#-------------------------------
+[PIDGEOT-1]
+FormName=Mega Pidgeot
+MegaStone=PIDGEOTITE
+BaseStats=83,80,80,121,135,80
+BaseEXP=261
+Abilities=NOGUARD
+Height=2.2
+Weight=50.5
+BattlerPlayerY=1
+BattlerEnemyY=13
+#-------------------------------
+[RATTATA-1]
+FormName=Alola Form
+Type1=DARK
+Type2=NORMAL
+Abilities=GLUTTONY,HUSTLE
+HiddenAbility=THICKFAT
+EggMoves=SNATCH,STOCKPILE,FURYSWIPES,SWITCHEROO,COUNTER,REVERSAL,UPROAR,SWALLOW,MEFIRST,REVENGE,FINALGAMBIT
+Weight=3.8
+WildItemUncommon=PECHABERRY
+BattlerPlayerY=26
+BattlerEnemyY=26
+Evolutions=RATICATE,LevelNight,20
+#-------------------------------
+[RATICATE-1]
+FormName=Alola Form
+Type1=DARK
+Type2=NORMAL
+BaseStats=75,71,70,77,40,80
+Abilities=GLUTTONY,HUSTLE
+HiddenAbility=THICKFAT
+Weight=25.5
+WildItemUncommon=PECHABERRY
+BattlerEnemyY=25
+#-------------------------------
+[RAICHU-1]
+FormName=Alola Form
+Type1=ELECTRIC
+Type2=PSYCHIC
+BaseStats=60,85,50,110,95,85
+Abilities=SURGESURFER
+HiddenAbility=SURGESURFER
+Moves=0,PSYCHIC,1,PSYCHIC,1,PLAYNICE,1,SWEETKISS,1,NUZZLE,1,NASTYPLOT,1,CHARM,1,THUNDERWAVE,1,DOUBLETEAM,1,ELECTROBALL,1,FEINT,1,SPARK,1,AGILITY,1,SLAM,1,DISCHARGE,1,THUNDERBOLT,1,LIGHTSCREEN,1,THUNDER,1,THUNDERSHOCK,1,TAILWHIP,1,GROWL,1,QUICKATTACK
+Height=0.7
+Weight=21.0
+BattlerPlayerY=16
+BattlerEnemyY=18
+BattlerAltitude=9
+#-------------------------------
+[SANDSHREW-1]
+FormName=Alola Form
+Type1=ICE
+Type2=STEEL
+BaseStats=50,75,90,40,10,35
+Abilities=SNOWCLOAK
+HiddenAbility=SLUSHRUSH
+Moves=1,SCRATCH,1,DEFENSECURL,3,BIDE,5,POWDERSNOW,7,ICEBALL,9,RAPIDSPIN,11,FURYCUTTER,14,METALCLAW,17,SWIFT,20,FURYSWIPES,23,IRONDEFENSE,26,SLASH,30,IRONHEAD,34,GYROBALL,38,SWORDSDANCE,42,HAIL,46,BLIZZARD
+EggMoves=FLAIL,COUNTER,ICICLESPEAR,METALCLAW,CRUSHCLAW,NIGHTSLASH,ICICLECRASH,ENDURE,CHIPAWAY,CURSE,AMNESIA,HONECLAWS
+Height=0.7
+Weight=40.0
+BattlerPlayerY=27
+BattlerEnemyY=30
+Evolutions=SANDSLASH,Item,ICESTONE
+#-------------------------------
+[SANDSLASH-1]
+FormName=Alola Form
+Type1=ICE
+Type2=STEEL
+BaseStats=75,100,120,65,25,65
+Abilities=SNOWCLOAK
+HiddenAbility=SLUSHRUSH
+Moves=0,ICICLESPEAR,1,ICICLESPEAR,1,METALBURST,1,ICICLECRASH,1,SLASH,1,DEFENSECURL,1,ICEBALL,1,METALCLAW
+Height=1.2
+Weight=55.0
+BattlerPlayerY=23
+BattlerEnemyY=24
+#-------------------------------
+[VULPIX-1]
+FormName=Alola Form
+Type1=ICE
+Abilities=SNOWCLOAK
+HiddenAbility=SNOWWARNING
+Moves=1,POWDERSNOW,1,TAILWHIP,4,DISABLE,8,ICESHARD,12,SPITE,16,ICYWIND,20,CONFUSERAY,24,AURORABEAM,28,EXTRASENSORY,32,ICEBEAM,36,IMPRISON,40,MIST,44,AURORAVEIL,48,SHEERCOLD,52,GRUDGE,56,BLIZZARD
+EggMoves=FREEZEDRY,HYPNOSIS,FLAIL,SPITE,DISABLE,HOWL,AGILITY,ENCORE,MOONBLAST,POWERSWAP,SECRETPOWER,CHARM,TAILSLAP,EXTRASENSORY,BABYDOLLEYES,ROAR
+WildItemUncommon=SNOWBALL
+BattlerPlayerY=23
+BattlerEnemyY=28
+Evolutions=NINETALES,Item,ICESTONE
+#-------------------------------
+[NINETALES-1]
+FormName=Alola Form
+Type1=ICE
+Type2=FAIRY
+BaseStats=73,67,75,109,81,100
+EffortPoints=0,0,0,2,0,0
+Abilities=SNOWCLOAK
+HiddenAbility=SNOWWARNING
+Moves=0,DAZZLINGGLEAM,1,DAZZLINGGLEAM,1,NASTYPLOT,1,SPITE,1,ICYWIND,1,CONFUSERAY,1,AURORABEAM,1,EXTRASENSORY,1,ICEBEAM,1,IMPRISON,1,MIST,1,AURORAVEIL,1,SHEERCOLD,1,GRUDGE,1,BLIZZARD,1,POWDERSNOW,1,TAILWHIP,1,DISABLE,1,ICESHARD
+WildItemUncommon=SNOWBALL
+BattlerPlayerY=18
+BattlerEnemyY=20
+#-------------------------------
+[DIGLETT-1]
+FormName=Alola Form
+Type1=GROUND
+Type2=STEEL
+BaseStats=10,55,30,90,35,45
+Abilities=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Moves=1,SANDATTACK,1,METALCLAW,4,GROWL,8,ASTONISH,12,MUDSLAP,16,BULLDOZE,20,SUCKERPUNCH,24,IRONHEAD,28,SANDSTORM,32,DIG,36,EARTHPOWER,40,EARTHQUAKE,44,FISSURE
+EggMoves=FEINTATTACK,METALSOUND,ANCIENTPOWER,PURSUIT,BEATUP,THRASH,REVERSAL,HEADBUTT,ENDURE,FINALGAMBIT,MEMENTO,HONECLAWS
+Weight=1.0
+BattlerPlayerY=33
+BattlerEnemyY=37
+#-------------------------------
+[DUGTRIO-1]
+FormName=Alola Form
+Type1=GROUND
+Type2=STEEL
+BaseStats=35,100,60,110,50,70
+EffortPoints=0,2,0,0,0,0
+Abilities=SANDVEIL,TANGLINGHAIR
+HiddenAbility=SANDFORCE
+Moves=0,SANDTOMB,1,SANDTOMB,1,NIGHTSLASH,1,TRIATTACK,1,SANDATTACK,1,METALCLAW,1,GROWL,1,ASTONISH,12,MUDSLAP,16,BULLDOZE,20,SUCKERPUNCH,24,IRONHEAD,30,SANDSTORM,36,DIG,42,EARTHPOWER,48,EARTHQUAKE,54,FISSURE
+Weight=66.6
+BattlerPlayerY=25
+BattlerEnemyY=29
+#-------------------------------
+[MEOWTH-1]
+FormName=Alola Form
+Type1=DARK
+BaseStats=40,35,35,90,50,40
+Abilities=PICKUP,TECHNICIAN
+HiddenAbility=RATTLED
+Moves=1,FAKEOUT,1,GROWL,4,FEINT,8,SCRATCH,12,PAYDAY,16,BITE,20,TAUNT,24,ASSURANCE,29,FURYSWIPES,32,SCREECH,36,NIGHTSLASH,40,NASTYPLOT,44,PLAYROUGH
+EggMoves=HYPNOSIS,ASSIST,FOULPLAY,SPITE,CHARM,AMNESIA,PARTINGSHOT,FLAIL,FLATTER,PUNISHMENT,SNATCH,COVET
+BattlerEnemyY=27
+Evolutions=PERSIAN,Happiness,
+#-------------------------------
+[MEOWTH-2]
+FormName=Galar Form
+Type1=STEEL
+BaseStats=50,65,55,40,40,40
+EffortPoints=0,1,0,0,0,0
+Abilities=PICKUP,TOUGHCLAWS
+HiddenAbility=UNNERVE
+Moves=1,FAKEOUT,1,GROWL,4,HONECLAWS,8,SCRATCH,12,PAYDAY,16,METALCLAW,20,TAUNT,24,SWAGGER,29,FURYSWIPES,32,SCREECH,36,SLASH,40,METALSOUND,44,THRASH
+EggMoves=SPITE,DOUBLEEDGE,CURSE,FLAIL,NIGHTSLASH,COVET
+Weight=7.5
+Color=Brown
+WildItemUncommon=
+BattlerEnemyY=25
+Evolutions=PERRSERKER,Level,28
+#-------------------------------
+[PERSIAN-1]
+FormName=Alola Form
+Type1=DARK
+BaseStats=65,60,60,115,75,65
+Abilities=FURCOAT,TECHNICIAN
+HiddenAbility=RATTLED
+Moves=0,POWERGEM,1,POWERGEM,1,QUASH,1,SWITCHEROO,1,FAKEOUT,1,GROWL,1,FEINT,1,SCRATCH,12,PAYDAY,16,BITE,20,TAUNT,24,ASSURANCE,31,FURYSWIPES,36,SCREECH,42,NIGHTSLASH,48,NASTYPLOT,54,PLAYROUGH
+Height=1.1
+Weight=33.0
+BattlerPlayerY=16
+BattlerEnemyY=19
+#-------------------------------
+[ALAKAZAM-1]
+FormName=Mega Alakazam
+MegaStone=ALAKAZITE
+BaseStats=55,50,65,150,175,105
+BaseEXP=270
+Abilities=TRACE
+Height=1.2
+BattlerPlayerY=7
+BattlerEnemyY=8
+#-------------------------------
+[GEODUDE-1]
+FormName=Alola Form
+Type1=ROCK
+Type2=ELECTRIC
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,TACKLE,1,DEFENSECURL,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,28,STEALTHROCK,30,ROCKBLAST,34,DISCHARGE,36,EXPLOSION,40,DOUBLEEDGE,42,STONEEDGE
+EggMoves=BLOCK,FLAIL,MAGNETRISE,ROCKCLIMB,ENDURE,AUTOTOMIZE,WIDEGUARD,COUNTER,CURSE,SCREECH
+Weight=20.3
+WildItemUncommon=CELLBATTERY
+BattlerEnemyY=35
+#-------------------------------
+[GRAVELER-1]
+FormName=Alola Form
+Type1=ROCK
+Type2=ELECTRIC
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,ROLLOUT,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE
+Weight=110.0
+WildItemUncommon=CELLBATTERY
+BattlerPlayerY=24
+BattlerEnemyY=28
+#-------------------------------
+[GOLEM-1]
+FormName=Alola Form
+Type1=ROCK
+Type2=ELECTRIC
+Abilities=MAGNETPULL,STURDY
+HiddenAbility=GALVANIZE
+Moves=1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE,60,HEAVYSLAM
+Height=1.7
+Weight=316.0
+WildItemCommon=CELLBATTERY
+WildItemUncommon=
+BattlerPlayerY=16
+BattlerEnemyY=17
+#-------------------------------
+[PONYTA-1]
+FormName=Galar Form
+Type1=PSYCHIC
+Abilities=RUNAWAY,PASTELVEIL
+HiddenAbility=ANTICIPATION
+Moves=1,TACKLE,1,GROWL,5,TAILWHIP,10,CONFUSION,15,FAIRYWIND,20,AGILITY,25,PSYBEAM,30,STOMP,35,HEALPULSE,41,TAKEDOWN,45,DAZZLINGGLEAM,50,PSYCHIC,55,HEALINGWISH
+EggMoves=THRASH,DOUBLEKICK,HYPNOSIS,DOUBLEEDGE,HORNDRILL,MORNINGSUN
+Height=0.8
+Weight=24.0
+Color=White
+BattlerPlayerY=21
+#-------------------------------
+[RAPIDASH-1]
+FormName=Galar Form
+Type1=PSYCHIC
+Type2=FAIRY
+Abilities=RUNAWAY,PASTELVEIL
+HiddenAbility=ANTICIPATION
+Moves=0,PSYCHOCUT,1,PSYCHOCUT,1,MEGAHORN,1,TACKLE,1,QUICKATTACK,1,GROWL,1,TAILWHIP,1,CONFUSION,15,FAIRYWIND,20,AGILITY,25,PSYBEAM,30,STOMP,35,HEALPULSE,43,TAKEDOWN,49,DAZZLINGGLEAM,56,PSYCHIC,63,HEALINGWISH
+Weight=80.0
+Color=White
+BattlerPlayerY=12
+BattlerEnemyY=13
+#-------------------------------
+[SLOWPOKE-1]
+FormName=Galar Form
+Type1=PSYCHIC
+Abilities=GLUTTONY,OWNTEMPO
+HiddenAbility=REGENERATOR
+Moves=1,TACKLE,1,CURSE,3,GROWL,6,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,39,PSYCHUP,42,RAINDANCE,45,HEALPULSE
+EggMoves=BELCH,BELLYDRUM,BLOCK,STOMP
+WildItemUncommon=
+BattlerPlayerY=34
+BattlerEnemyY=38
+Evolutions=SLOWBRO,Location,1,SLOWKING,Location,1
+#-------------------------------
+[SLOWBRO-1]
+FormName=Mega Slowbro
+MegaStone=SLOWBRONITE
+BaseStats=95,75,180,30,130,80
+BaseEXP=207
+Abilities=SHELLARMOR
+Height=2.0
+Weight=120.0
+Shape=4
+BattlerPlayerY=12
+BattlerEnemyY=8
+#-------------------------------
+[SLOWBRO-2]
+FormName=Galar Form
+Type1=POISON
+Type2=PSYCHIC
+BaseStats=95,100,95,30,100,70
+Abilities=QUICKDRAW,OWNTEMPO
+HiddenAbility=REGENERATOR
+Moves=0,SHELLSIDEARM,1,SHELLSIDEARM,1,WITHDRAW,1,TACKLE,1,CURSE,1,GROWL,1,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERPULSE,21,HEADBUTT,24,ZENHEADBUTT,27,AMNESIA,30,SURF,33,SLACKOFF,36,PSYCHIC,41,PSYCHUP,46,RAINDANCE,51,HEALPULSE
+Weight=70.5
+WildItemUncommon=
+BattlerEnemyY=22
+#-------------------------------
+[FARFETCHD-1]
+FormName=Galar Form
+Type1=FIGHTING
+BaseStats=52,95,55,55,58,62
+Abilities=STEADFAST
+HiddenAbility=SCRAPPY
+Moves=1,PECK,1,SANDATTACK,5,LEER,10,FURYCUTTER,15,ROCKSMASH,20,BRUTALSWING,25,DETECT,30,KNOCKOFF,35,DEFOG,40,BRICKBREAK,45,SWORDSDANCE,50,SLAM,55,LEAFBLADE,60,FINALGAMBIT,65,BRAVEBIRD
+EggMoves=COUNTER,QUICKATTACK,FLAIL,QUICKGUARD,CURSE,COVET,NIGHTSLASH,SIMPLEBEAM,DOUBLEEDGE,FEINT,SKYATTACK
+Weight=42.0
+WildItemCommon=LEEK
+WildItemUncommon=
+BattlerPlayerY=24
+BattlerEnemyY=28
+Evolutions=SIRFETCHD,LandCritical,3
+#-------------------------------
+[GRIMER-1]
+FormName=Alola Form
+Type1=POISON
+Type2=DARK
+Abilities=POISONTOUCH,GLUTTONY
+HiddenAbility=POWEROFALCHEMY
+Moves=1,POUND,1,POISONGAS,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,43,ACIDARMOR,46,BELCH,48,MEMENTO
+EggMoves=CLEARSMOG,MEANLOOK,PURSUIT,IMPRISON,CURSE,ASSURANCE,SHADOWSNEAK,STOCKPILE,SWALLOW,SPITUP,SCARYFACE,SPITE,POWERUPPUNCH
+Height=0.7
+Weight=42.0
+BattlerPlayerY=27
+BattlerEnemyY=31
+#-------------------------------
+[MUK-1]
+FormName=Alola Form
+Type1=POISON
+Type2=DARK
+Abilities=POISONTOUCH,GLUTTONY
+HiddenAbility=POWEROFALCHEMY
+Moves=0,VENOMDRENCH,1,VENOMDRENCH,1,POUND,1,POISONGAS,1,HARDEN,1,BITE,4,HARDEN,7,BITE,12,DISABLE,15,ACIDSPRAY,18,POISONFANG,21,MINIMIZE,26,FLING,29,KNOCKOFF,32,CRUNCH,37,SCREECH,40,GUNKSHOT,46,ACIDARMOR,52,BELCH,57,MEMENTO
+Height=1.0
+Weight=52.0
+BattlerPlayerY=20
+BattlerEnemyY=23
+#-------------------------------
+[GENGAR-1]
+FormName=Mega Gengar
+MegaStone=GENGARITE
+BaseStats=60,65,80,130,170,95
+BaseEXP=270
+Abilities=SHADOWTAG
+Height=1.4
+BattlerPlayerY=19
+BattlerEnemyY=23
+#-------------------------------
+[EXEGGUTOR-1]
+FormName=Alola Form
+Type1=GRASS
+Type2=DRAGON
+BaseStats=95,105,85,45,125,75
+Abilities=FRISK
+HiddenAbility=HARVEST
+Moves=0,DRAGONHAMMER,1,DRAGONHAMMER,1,SEEDBOMB,1,BARRAGE,1,HYPNOSIS,1,CONFUSION,17,PSYSHOCK,27,EGGBOMB,37,WOODHAMMER,47,LEAFSTORM
+Height=10.9
+Weight=415.6
+BattlerPlayerY=1
+BattlerEnemyY=4
+#-------------------------------
+[MAROWAK-1]
+FormName=Alola Form
+Type1=FIRE
+Type2=GHOST
+Abilities=CURSEDBODY,LIGHTNINGROD
+HiddenAbility=ROCKHEAD
+Moves=1,GROWL,1,TAILWHIP,1,BONECLUB,1,FLAMEWHEEL,3,TAILWHIP,7,BONECLUB,11,FLAMEWHEEL,13,LEER,17,HEX,21,BONEMERANG,23,WILLOWISP,27,SHADOWBONE,33,THRASH,37,FLING,43,STOMPINGTANTRUM,49,ENDEAVOR,53,FLAREBLITZ,59,RETALIATE,65,BONERUSH
+Weight=34.0
+BattlerPlayerY=12
+BattlerEnemyY=17
+#-------------------------------
+[WEEZING-1]
+FormName=Galar Form
+Type1=POISON
+Type2=FAIRY
+Abilities=LEVITATE,NEUTRALIZINGGAS
+HiddenAbility=MISTYSURGE
+Moves=0,DOUBLEHIT,1,DOUBLEHIT,1,STRANGESTEAM,1,DEFOG,1,HEATWAVE,1,SMOG,1,SMOKESCREEN,1,HAZE,1,POISONGAS,1,TACKLE,1,FAIRYWIND,1,AROMATICMIST,12,CLEARSMOG,16,ASSURANCE,20,SLUDGE,24,AROMATHERAPY,28,SELFDESTRUCT,32,SLUDGEBOMB,38,TOXIC,44,BELCH,50,EXPLOSION,56,MEMENTO,62,DESTINYBOND,68,MISTYTERRAIN
+Height=3.0
+Weight=16.0
+Color=Gray
+WildItemUncommon=MISTYSEED
+BattlerPlayerY=2
+BattlerEnemyY=6
+BattlerAltitude=2
+#-------------------------------
+[KANGASKHAN-1]
+FormName=Mega Kangaskhan
+MegaStone=KANGASKHANITE
+BaseStats=105,125,100,100,60,100
+BaseEXP=207
+Abilities=PARENTALBOND
+Weight=100.0
+BattlerPlayerY=16
+BattlerEnemyY=21
+#-------------------------------
+[MRMIME-1]
+FormName=Galar Form
+Type1=ICE
+Type2=PSYCHIC
+BaseStats=50,65,65,100,90,90
+EffortPoints=0,0,0,2,0,0
+Abilities=VITALSPIRIT,SCREENCLEANER
+HiddenAbility=ICEBODY
+Moves=1,COPYCAT,1,ENCORE,1,ROLEPLAY,1,PROTECT,1,RECYCLE,1,MIMIC,1,LIGHTSCREEN,1,REFLECT,1,SAFEGUARD,1,DAZZLINGGLEAM,1,MISTYTERRAIN,1,POUND,1,RAPIDSPIN,1,BATONPASS,1,ICESHARD,12,CONFUSION,16,ALLYSWITCH,20,ICYWIND,24,DOUBLEKICK,28,PSYBEAM,32,HYPNOSIS,36,MIRRORCOAT,40,SUCKERPUNCH,44,FREEZEDRY,48,PSYCHIC,52,TEETERDANCE
+Height=1.4
+Weight=56.8
+Color=White
+BattlerEnemyY=25
+Evolutions=MRRIME,Level,42
+#-------------------------------
+[PINSIR-1]
+FormName=Mega Pinsir
+MegaStone=PINSIRITE
+Type1=BUG
+Type2=FLYING
+BaseStats=65,155,120,105,65,90
+BaseEXP=210
+Abilities=AERILATE
+Height=1.7
+Weight=59.0
+Shape=13
+BattlerPlayerY=16
+BattlerEnemyY=18
+BattlerAltitude=8
+#-------------------------------
+[GYARADOS-1]
+FormName=Mega Gyarados
+MegaStone=GYARADOSITE
+Type1=WATER
+Type2=DARK
+BaseStats=95,155,109,81,70,130
+BaseEXP=224
+Abilities=MOLDBREAKER
+Weight=305.0
+BattlerPlayerY=3
+BattlerEnemyY=7
+#-------------------------------
+[AERODACTYL-1]
+FormName=Mega Aerodactyl
+MegaStone=AERODACTYLITE
+BaseStats=80,135,85,150,70,95
+BaseEXP=215
+Abilities=TOUGHCLAWS
+Height=2.1
+Weight=79.0
+BattlerEnemyY=14
+#-------------------------------
+[MEWTWO-1]
+FormName=Mega Mewtwo X
+MegaStone=MEWTWONITEX
+Type1=PSYCHIC
+Type2=FIGHTING
+BaseStats=106,190,100,130,154,100
+BaseEXP=351
+Abilities=STEADFAST
+Height=2.3
+Weight=127.0
+BattlerPlayerY=10
+BattlerEnemyY=14
+#-------------------------------
+[MEWTWO-2]
+FormName=Mega Mewtwo Y
+MegaStone=MEWTWONITEY
+BaseStats=106,150,70,140,194,120
+BaseEXP=351
+Abilities=INSOMNIA
+Height=1.5
+Weight=33.0
+BattlerEnemyY=19
+#-------------------------------
+[PICHU-1]
+FormName=Spiky-eared
+#-------------------------------
+[AMPHAROS-1]
+FormName=Mega Ampharos
+MegaStone=AMPHAROSITE
+Type1=ELECTRIC
+Type2=DRAGON
+BaseStats=90,95,105,45,165,110
+BaseEXP=275
+Abilities=MOLDBREAKER
+BattlerPlayerY=11
+BattlerEnemyY=15
+#-------------------------------
+[UNOWN-1]
+FormName=B
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-2]
+FormName=C
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-3]
+FormName=D
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-4]
+FormName=E
+BattlerPlayerY=33
+BattlerEnemyY=37
+#-------------------------------
+[UNOWN-5]
+FormName=F
+BattlerPlayerY=33
+BattlerEnemyY=37
+#-------------------------------
+[UNOWN-6]
+FormName=G
+BattlerPlayerY=30
+BattlerEnemyY=34
+#-------------------------------
+[UNOWN-7]
+FormName=H
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-8]
+FormName=I
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-9]
+FormName=J
+BattlerPlayerY=33
+BattlerEnemyY=37
+#-------------------------------
+[UNOWN-10]
+FormName=K
+BattlerPlayerY=33
+BattlerEnemyY=37
+#-------------------------------
+[UNOWN-11]
+FormName=L
+BattlerPlayerY=35
+BattlerEnemyY=39
+#-------------------------------
+[UNOWN-12]
+FormName=M
+BattlerPlayerY=35
+BattlerEnemyY=39
+#-------------------------------
+[UNOWN-13]
+FormName=N
+BattlerPlayerY=36
+BattlerEnemyY=40
+#-------------------------------
+[UNOWN-14]
+FormName=O
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-15]
+FormName=P
+BattlerPlayerY=38
+BattlerEnemyY=39
+#-------------------------------
+[UNOWN-16]
+FormName=Q
+BattlerPlayerY=37
+BattlerEnemyY=41
+#-------------------------------
+[UNOWN-17]
+FormName=R
+BattlerPlayerY=35
+BattlerEnemyY=39
+#-------------------------------
+[UNOWN-18]
+FormName=S
+BattlerPlayerY=30
+BattlerEnemyY=32
+#-------------------------------
+[UNOWN-19]
+FormName=T
+BattlerPlayerY=36
+BattlerEnemyY=38
+#-------------------------------
+[UNOWN-20]
+FormName=U
+BattlerPlayerY=36
+BattlerEnemyY=38
+#-------------------------------
+[UNOWN-21]
+FormName=V
+BattlerPlayerY=35
+BattlerEnemyY=38
+#-------------------------------
+[UNOWN-22]
+FormName=W
+BattlerPlayerY=36
+BattlerEnemyY=39
+#-------------------------------
+[UNOWN-23]
+FormName=X
+BattlerPlayerY=37
+BattlerEnemyY=41
+#-------------------------------
+[UNOWN-24]
+FormName=Y
+BattlerPlayerY=33
+BattlerEnemyY=37
+#-------------------------------
+[UNOWN-25]
+FormName=Z
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[UNOWN-26]
+FormName=!
+#-------------------------------
+[UNOWN-27]
+FormName=?
+BattlerPlayerY=32
+#-------------------------------
+[STEELIX-1]
+FormName=Mega Steelix
+MegaStone=STEELIXITE
+BaseStats=75,125,230,30,55,95
+BaseEXP=214
+Abilities=SANDFORCE
+Height=10.5
+Weight=740.0
+BattlerEnemyY=11
+#-------------------------------
+[SCIZOR-1]
+FormName=Mega Scizor
+MegaStone=SCIZORITE
+BaseStats=70,150,140,75,65,100
+BaseEXP=210
+Abilities=TECHNICIAN
+Height=2.0
+Weight=125.0
+BattlerPlayerY=5
+BattlerEnemyY=9
+#-------------------------------
+[HERACROSS-1]
+FormName=Mega Heracross
+MegaStone=HERACRONITE
+BaseStats=80,185,115,75,40,105
+BaseEXP=210
+Abilities=SKILLLINK
+Height=1.7
+Weight=62.5
+BattlerPlayerY=2
+BattlerEnemyY=7
+#-------------------------------
+[CORSOLA-1]
+FormName=Galar Form
+Type1=GHOST
+BaseStats=60,55,100,30,65,100
+EffortPoints=0,0,0,0,0,1
+Abilities=WEAKARMOR
+HiddenAbility=CURSEDBODY
+Moves=1,TACKLE,1,HARDEN,5,ASTONISH,10,DISABLE,15,SPITE,20,ANCIENTPOWER,25,HEX,30,CURSE,35,STRENGTHSAP,40,POWERGEM,45,NIGHTSHADE,50,GRUDGE,55,MIRRORCOAT
+EggMoves=HAZE,CONFUSERAY,NATUREPOWER,DESTINYBOND,WATERPULSE,HEADSMASH
+Weight=0.5
+Color=White
+WildItemUncommon=
+Evolutions=CURSOLA,Level,38
+#-------------------------------
+[HOUNDOOM-1]
+FormName=Mega Houndoom
+MegaStone=HOUNDOOMINITE
+BaseStats=75,90,90,115,140,90
+BaseEXP=210
+Abilities=SOLARPOWER
+Height=1.9
+Weight=49.5
+BattlerPlayerY=8
+BattlerEnemyY=9
+#-------------------------------
+[TYRANITAR-1]
+FormName=Mega Tyranitar
+MegaStone=TYRANITARITE
+BaseStats=100,164,150,71,95,120
+BaseEXP=315
+Abilities=SANDSTREAM
+Height=2.5
+Weight=255.0
+BattlerPlayerY=6
+BattlerEnemyY=12
+#-------------------------------
+[SCEPTILE-1]
+FormName=Mega Sceptile
+MegaStone=SCEPTILITE
+Type1=GRASS
+Type2=DRAGON
+BaseStats=70,110,75,145,145,85
+BaseEXP=284
+Abilities=LIGHTNINGROD
+Height=1.9
+Weight=55.2
+BattlerPlayerY=6
+BattlerEnemyY=12
+#-------------------------------
+[BLAZIKEN-1]
+FormName=Mega Blaziken
+MegaStone=BLAZIKENITE
+BaseStats=80,160,80,100,130,80
+BaseEXP=284
+Abilities=SPEEDBOOST
+BattlerPlayerY=1
+BattlerEnemyY=4
+#-------------------------------
+[SWAMPERT-1]
+FormName=Mega Swampert
+MegaStone=SWAMPERTITE
+BaseStats=100,150,110,70,95,110
+BaseEXP=286
+Abilities=SWIFTSWIM
+Height=1.9
+Weight=102.0
+BattlerPlayerY=16
+BattlerEnemyY=18
+#-------------------------------
+[ZIGZAGOON-1]
+FormName=Galar Form
+Type1=DARK
+Type2=NORMAL
+Moves=1,TACKLE,1,LEER,3,SANDATTACK,6,LICK,9,SNARL,12,HEADBUTT,15,BABYDOLLEYES,18,PINMISSILE,21,REST,24,TAKEDOWN,27,SCARYFACE,30,COUNTER,33,TAUNT,36,DOUBLEEDGE
+EggMoves=PARTINGSHOT,QUICKGUARD,KNOCKOFF
+Color=White
+WildItemCommon=
+WildItemUncommon=
+BattlerPlayerY=26
+#-------------------------------
+[LINOONE-1]
+FormName=Galar Form
+Type1=DARK
+Type2=NORMAL
+Moves=1,NIGHTSLASH,1,SWITCHEROO,1,PINMISSILE,1,BABYDOLLEYES,1,TACKLE,1,LEER,1,SANDATTACK,1,LICK,9,SNARL,12,HEADBUTT,15,HONECLAWS,18,FURYSWIPES,23,REST,28,TAKEDOWN,33,SCARYFACE,38,COUNTER,43,TAUNT,48,DOUBLEEDGE
+WildItemCommon=
+WildItemUncommon=
+BattlerPlayerY=30
+Evolutions=OBSTAGOON,LevelNight,35
+#-------------------------------
+[GARDEVOIR-1]
+FormName=Mega Gardevoir
+MegaStone=GARDEVOIRITE
+BaseStats=68,85,65,100,165,135
+BaseEXP=278
+Abilities=PIXILATE
+BattlerPlayerY=9
+BattlerEnemyY=13
+#-------------------------------
+[SABLEYE-1]
+FormName=Mega Sableye
+MegaStone=SABLENITE
+BaseStats=50,85,125,20,85,115
+BaseEXP=168
+Abilities=MAGICBOUNCE
+Weight=161.0
+BattlerPlayerY=14
+BattlerEnemyY=20
+#-------------------------------
+[MAWILE-1]
+FormName=Mega Mawile
+MegaStone=MAWILITE
+BaseStats=50,105,125,50,55,95
+BaseEXP=168
+Abilities=HUGEPOWER
+Height=1.0
+Weight=23.5
+BattlerPlayerY=13
+BattlerEnemyY=17
+#-------------------------------
+[AGGRON-1]
+FormName=Mega Aggron
+MegaStone=AGGRONITE
+Type1=STEEL
+BaseStats=70,140,230,50,60,80
+BaseEXP=284
+Abilities=FILTER
+Height=2.2
+Weight=395.0
+BattlerPlayerY=4
+BattlerEnemyY=9
+#-------------------------------
+[MEDICHAM-1]
+FormName=Mega Medicham
+MegaStone=MEDICHAMITE
+BaseStats=60,100,85,100,80,85
+BaseEXP=179
+Abilities=PUREPOWER
+BattlerPlayerY=11
+BattlerEnemyY=17
+#-------------------------------
+[MANECTRIC-1]
+FormName=Mega Manectric
+MegaStone=MANECTITE
+BaseStats=70,75,80,135,135,80
+BaseEXP=201
+Abilities=INTIMIDATE
+Height=1.8
+Weight=44.0
+BattlerPlayerY=7
+BattlerEnemyY=11
+#-------------------------------
+[SHARPEDO-1]
+FormName=Mega Sharpedo
+MegaStone=SHARPEDONITE
+BaseStats=70,140,70,105,110,65
+BaseEXP=196
+Abilities=STRONGJAW
+Height=2.5
+Weight=130.3
+BattlerPlayerY=9
+BattlerEnemyY=15
+#-------------------------------
+[CAMERUPT-1]
+FormName=Mega Camerupt
+MegaStone=CAMERUPTITE
+BaseStats=70,120,100,20,145,105
+BaseEXP=196
+Abilities=SHEERFORCE
+Height=2.5
+Weight=320.5
+BattlerPlayerY=16
+#-------------------------------
+[ALTARIA-1]
+FormName=Mega Altaria
+MegaStone=ALTARIANITE
+Type1=DRAGON
+Type2=FAIRY
+BaseStats=75,110,110,80,110,105
+BaseEXP=207
+Abilities=PIXILATE
+Height=1.5
+BattlerPlayerY=6
+BattlerEnemyY=6
+#-------------------------------
+[CASTFORM-1]
+FormName=Sunny Form
+Type1=FIRE
+Color=Red
+BattlerPlayerY=22
+BattlerEnemyY=29
+#-------------------------------
+[CASTFORM-2]
+FormName=Rainy Form
+Type1=WATER
+Color=Blue
+BattlerPlayerY=26
+BattlerEnemyY=29
+#-------------------------------
+[CASTFORM-3]
+FormName=Snowy Form
+Type1=ICE
+Color=White
+BattlerPlayerY=24
+BattlerEnemyY=28
+#-------------------------------
+[BANETTE-1]
+FormName=Mega Banette
+MegaStone=BANETTITE
+BaseStats=64,165,75,75,93,83
+BaseEXP=194
+Abilities=PRANKSTER
+Height=1.2
+Weight=13.0
+BattlerPlayerY=10
+BattlerEnemyY=14
+#-------------------------------
+[ABSOL-1]
+FormName=Mega Absol
+MegaStone=ABSOLITE
+BaseStats=65,150,60,115,115,60
+BaseEXP=198
+Abilities=MAGICBOUNCE
+Weight=49.0
+#-------------------------------
+[GLALIE-1]
+FormName=Mega Glalie
+MegaStone=GLALITITE
+BaseStats=80,120,80,100,120,80
+BaseEXP=203
+Abilities=REFRIGERATE
+Height=2.1
+Weight=350.2
+BattlerPlayerY=14
+BattlerEnemyY=17
+#-------------------------------
+[SALAMENCE-1]
+FormName=Mega Salamence
+MegaStone=SALAMENCITE
+BaseStats=95,145,130,120,120,90
+BaseEXP=315
+Abilities=AERILATE
+Height=1.8
+Weight=112.6
+BattlerPlayerY=2
+BattlerEnemyY=13
+#-------------------------------
+[METAGROSS-1]
+FormName=Mega Metagross
+MegaStone=METAGROSSITE
+BaseStats=80,145,150,110,105,110
+BaseEXP=315
+Abilities=TOUGHCLAWS
+Height=2.5
+Weight=942.9
+BattlerPlayerY=23
+BattlerEnemyY=11
+#-------------------------------
+[LATIAS-1]
+FormName=Mega Latias
+MegaStone=LATIASITE
+BaseStats=80,100,120,110,140,150
+BaseEXP=315
+Height=1.8
+Weight=52.0
+Color=Purple
+BattlerPlayerY=16
+BattlerEnemyY=20
+#-------------------------------
+[LATIOS-1]
+FormName=Mega Latios
+MegaStone=LATIOSITE
+BaseStats=80,130,100,110,160,120
+BaseEXP=315
+Height=2.3
+Weight=70.0
+Color=Purple
+BattlerPlayerY=16
+BattlerEnemyY=20
+#-------------------------------
+[KYOGRE-1]
+FormName=Primal Kyogre
+BaseStats=100,150,90,90,180,160
+BaseEXP=347
+Abilities=PRIMORDIALSEA
+Height=9.8
+Weight=430.0
+BattlerPlayerY=19
+BattlerEnemyY=19
+#-------------------------------
+[GROUDON-1]
+FormName=Primal Groudon
+Type1=GROUND
+Type2=FIRE
+BaseStats=100,180,160,90,150,90
+BaseEXP=347
+Abilities=DESOLATELAND
+Height=5.0
+Weight=999.7
+BattlerPlayerY=11
+#-------------------------------
+[RAYQUAZA-1]
+FormName=Mega Rayquaza
+MegaMove=DRAGONASCENT
+MegaMessage=1
+BaseStats=105,180,100,115,180,100
+BaseEXP=351
+Abilities=DELTASTREAM
+Height=10.8
+Weight=392.0
+BattlerPlayerY=3
+BattlerEnemyY=5
+#-------------------------------
+[DEOXYS-1]
+FormName=Attack Forme
+BaseStats=50,180,20,150,180,20
+EffortPoints=0,2,0,0,1,0
+Moves=1,LEER,1,WRAP,7,NIGHTSHADE,13,TELEPORT,19,TAUNT,25,PURSUIT,31,PSYCHIC,37,SUPERPOWER,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,COSMICPOWER,61,ZAPCANNON,67,PSYCHOBOOST,73,HYPERBEAM
+BattlerPlayerY=6
+BattlerEnemyY=10
+#-------------------------------
+[DEOXYS-2]
+FormName=Defense Forme
+BaseStats=50,70,160,90,70,160
+EffortPoints=0,0,2,0,0,1
+Moves=1,LEER,1,WRAP,7,NIGHTSHADE,13,TELEPORT,19,KNOCKOFF,25,SPIKES,31,PSYCHIC,37,SNATCH,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,IRONDEFENSE,55,AMNESIA,61,RECOVER,67,PSYCHOBOOST,73,COUNTER,73,MIRRORCOAT
+BattlerEnemyY=13
+#-------------------------------
+[DEOXYS-3]
+FormName=Speed Forme
+BaseStats=50,95,90,180,95,90
+EffortPoints=0,0,0,3,0,0
+Moves=1,LEER,1,WRAP,7,NIGHTSHADE,13,DOUBLETEAM,19,KNOCKOFF,25,PURSUIT,31,PSYCHIC,37,SWIFT,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,AGILITY,61,RECOVER,67,PSYCHOBOOST,73,EXTREMESPEED
+BattlerPlayerY=9
+BattlerEnemyY=13
+#-------------------------------
+[BURMY-1]
+FormName=Sandy Cloak
+BattlerPlayerY=28
+BattlerEnemyY=32
+#-------------------------------
+[BURMY-2]
+FormName=Trash Cloak
+#-------------------------------
+[WORMADAM-1]
+FormName=Sandy Cloak
+Type1=BUG
+Type2=GROUND
+BaseStats=60,79,105,36,59,85
+EffortPoints=0,0,2,0,0,0
+Moves=0,QUIVERDANCE,1,QUIVERDANCE,1,SUCKERPUNCH,1,TACKLE,1,PROTECT,1,BUGBITE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,ROCKBLAST,29,HARDEN,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,FISSURE,50,BUGBUZZ
+Color=Brown
+BattlerPlayerY=23
+#-------------------------------
+[WORMADAM-2]
+FormName=Trash Cloak
+Type1=BUG
+Type2=STEEL
+BaseStats=60,69,95,36,69,95
+EffortPoints=0,0,1,0,0,1
+Moves=0,QUIVERDANCE,1,QUIVERDANCE,1,METALBURST,1,SUCKERPUNCH,1,TACKLE,1,PROTECT,1,BUGBITE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,MIRRORSHOT,29,METALSOUND,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,IRONHEAD,50,BUGBUZZ
+Color=Red
+BattlerPlayerY=23
+#-------------------------------
+[CHERRIM-1]
+FormName=Sunshine Form
+Color=Pink
+BattlerPlayerY=29
+BattlerEnemyY=33
+#-------------------------------
+[SHELLOS-1]
+FormName=East Sea
+Color=Blue
+BattlerEnemyY=31
+#-------------------------------
+[GASTRODON-1]
+FormName=East Sea
+Color=Blue
+#-------------------------------
+[LOPUNNY-1]
+FormName=Mega Lopunny
+MegaStone=LOPUNNITE
+Type1=NORMAL
+Type2=FIGHTING
+BaseStats=65,136,94,135,54,96
+BaseEXP=203
+Abilities=SCRAPPY
+Height=1.3
+Weight=28.3
+BattlerPlayerY=15
+BattlerEnemyY=17
+#-------------------------------
+[GARCHOMP-1]
+FormName=Mega Garchomp
+MegaStone=GARCHOMPITE
+BaseStats=108,170,115,92,120,95
+BaseEXP=315
+Abilities=SANDFORCE
+#-------------------------------
+[LUCARIO-1]
+FormName=Mega Lucario
+MegaStone=LUCARIONITE
+BaseStats=70,145,88,112,140,70
+BaseEXP=219
+Abilities=ADAPTABILITY
+Height=1.3
+Weight=57.5
+#-------------------------------
+[ABOMASNOW-1]
+FormName=Mega Abomasnow
+MegaStone=ABOMASITE
+BaseStats=90,132,105,30,132,105
+BaseEXP=208
+Abilities=SNOWWARNING
+Height=2.7
+Weight=185.0
+BattlerPlayerY=11
+BattlerEnemyY=12
+#-------------------------------
+[GALLADE-1]
+FormName=Mega Gallade
+MegaStone=GALLADITE
+BaseStats=68,165,95,110,65,115
+BaseEXP=278
+Abilities=INNERFOCUS
+Weight=56.4
+BattlerPlayerY=11
+BattlerEnemyY=15
+#-------------------------------
+[ROTOM-1]
+FormName=Heat Rotom
+Type1=ELECTRIC
+Type2=FIRE
+BaseStats=50,65,107,86,105,107
+BaseEXP=182
+BattlerPlayerY=22
+BattlerEnemyY=26
+#-------------------------------
+[ROTOM-2]
+FormName=Wash Rotom
+Type1=ELECTRIC
+Type2=WATER
+BaseStats=50,65,107,86,105,107
+BaseEXP=182
+BattlerPlayerY=18
+BattlerEnemyY=22
+BattlerAltitude=9
+#-------------------------------
+[ROTOM-3]
+FormName=Frost Rotom
+Type1=ELECTRIC
+Type2=ICE
+BaseStats=50,65,107,86,105,107
+BaseEXP=182
+BattlerPlayerY=14
+BattlerEnemyY=19
+BattlerAltitude=11
+#-------------------------------
+[ROTOM-4]
+FormName=Fan Rotom
+Type1=ELECTRIC
+Type2=FLYING
+BaseStats=50,65,107,86,105,107
+BaseEXP=182
+BattlerPlayerY=19
+BattlerEnemyY=23
+BattlerAltitude=9
+#-------------------------------
+[ROTOM-5]
+FormName=Mow Rotom
+Type1=ELECTRIC
+Type2=GRASS
+BaseStats=50,65,107,86,105,107
+BaseEXP=182
+BattlerPlayerY=22
+BattlerEnemyY=19
+BattlerAltitude=6
+#-------------------------------
+[GIRATINA-1]
+FormName=Origin Forme
+BaseStats=150,120,100,90,120,100
+Abilities=LEVITATE
+HiddenAbility=TELEPATHY
+Height=6.9
+Weight=650.0
+Shape=2
+BattlerEnemyY=12
+BattlerAltitude=10
+#-------------------------------
+[SHAYMIN-1]
+FormName=Sky Forme
+Type1=GRASS
+Type2=FLYING
+BaseStats=100,103,75,127,120,75
+EffortPoints=0,0,0,3,0,0
+Abilities=SERENEGRACE
+Moves=1,GROWTH,10,MAGICALLEAF,19,LEECHSEED,28,QUICKATTACK,37,SWEETSCENT,46,NATURALGIFT,55,WORRYSEED,64,AIRSLASH,73,ENERGYBALL,82,SWEETKISS,91,LEAFSTORM,100,SEEDFLARE
+Height=0.4
+Weight=5.2
+BattlerPlayerY=22
+BattlerEnemyY=26
+#-------------------------------
+[ARCEUS-1]
+Type1=FIGHTING
+#-------------------------------
+[ARCEUS-2]
+Type1=FLYING
+#-------------------------------
+[ARCEUS-3]
+Type1=POISON
+#-------------------------------
+[ARCEUS-4]
+Type1=GROUND
+#-------------------------------
+[ARCEUS-5]
+Type1=ROCK
+#-------------------------------
+[ARCEUS-6]
+Type1=BUG
+#-------------------------------
+[ARCEUS-7]
+Type1=GHOST
+#-------------------------------
+[ARCEUS-8]
+Type1=STEEL
+#-------------------------------
+[ARCEUS-9]
+Type1=FIRE
+#-------------------------------
+[ARCEUS-10]
+Type1=WATER
+#-------------------------------
+[ARCEUS-11]
+Type1=GRASS
+#-------------------------------
+[ARCEUS-12]
+Type1=ELECTRIC
+#-------------------------------
+[ARCEUS-13]
+Type1=PSYCHIC
+#-------------------------------
+[ARCEUS-14]
+Type1=ICE
+#-------------------------------
+[ARCEUS-15]
+Type1=DRAGON
+#-------------------------------
+[ARCEUS-16]
+Type1=DARK
+#-------------------------------
+[ARCEUS-17]
+Type1=FAIRY
+#-------------------------------
+[AUDINO-1]
+FormName=Mega Audino
+MegaStone=AUDINITE
+Type1=NORMAL
+Type2=FAIRY
+BaseStats=103,60,126,50,80,126
+BaseEXP=425
+Abilities=HEALER
+Height=1.5
+Weight=32.0
+Color=White
+BattlerPlayerY=16
+BattlerEnemyY=20
+#-------------------------------
+[BASCULIN-1]
+FormName=Blue-Striped
+Abilities=ROCKHEAD,ADAPTABILITY
+HiddenAbility=MOLDBREAKER
+WildItemUncommon=DEEPSEASCALE
+BattlerEnemyY=37
+#-------------------------------
+[DARUMAKA-1]
+FormName=Galar Form
+Type1=ICE
+Moves=1,POWDERSNOW,1,TACKLE,4,TAUNT,8,BITE,12,AVALANCHE,16,WORKUP,20,ICEFANG,24,HEADBUTT,28,ICEPUNCH,32,UPROAR,36,BELLYDRUM,40,BLIZZARD,44,THRASH,48,SUPERPOWER
+EggMoves=FOCUSPUNCH,HAMMERARM,TAKEDOWN,FLAMEWHEEL,YAWN,FREEZEDRY,INCINERATE,POWERUPPUNCH
+Height=0.7
+Weight=40.0
+Color=White
+#-------------------------------
+[DARMANITAN-1]
+FormName=Zen Mode
+Type1=FIRE
+Type2=PSYCHIC
+BaseStats=105,30,105,55,140,105
+BaseEXP=189
+EffortPoints=0,0,0,0,2,0
+Color=Blue
+BattlerPlayerY=30
+BattlerEnemyY=33
+#-------------------------------
+[DARMANITAN-2]
+FormName=Galar Form
+Type1=ICE
+Abilities=GORILLATACTICS
+HiddenAbility=ZENMODE
+Moves=0,ICICLECRASH,1,ICICLECRASH,1,POWDERSNOW,1,TACKLE,1,TAUNT,1,BITE,12,AVALANCHE,16,WORKUP,20,ICEFANG,24,HEADBUTT,28,ICEPUNCH,32,UPROAR,38,BELLYDRUM,44,BLIZZARD,50,THRASH,56,SUPERPOWER
+Height=1.7
+Weight=120.0
+Color=White
+#-------------------------------
+[DARMANITAN-3]
+FormName=Galar Form Zen Mode
+Type1=ICE
+Type2=FIRE
+BaseStats=105,160,55,135,30,55
+BaseEXP=189
+EffortPoints=0,0,0,0,2,0
+Abilities=GORILLATACTICS
+HiddenAbility=ZENMODE
+Moves=0,ICICLECRASH,1,ICICLECRASH,1,POWDERSNOW,1,TACKLE,1,TAUNT,1,BITE,12,AVALANCHE,16,WORKUP,20,ICEFANG,24,HEADBUTT,28,ICEPUNCH,32,UPROAR,38,BELLYDRUM,44,BLIZZARD,50,THRASH,56,SUPERPOWER
+Height=1.7
+Weight=120.0
+Color=White
+BattlerPlayerY=27
+BattlerEnemyY=30
+#-------------------------------
+[YAMASK-1]
+FormName=Galar Form
+Type1=GROUND
+Type2=GHOST
+BaseStats=38,55,85,30,30,65
+Abilities=WANDERINGSPIRIT
+Moves=1,ASTONISH,1,PROTECT,4,HAZE,8,NIGHTSHADE,12,DISABLE,16,BRUTALSWING,20,CRAFTYSHIELD,24,HEX,28,MEANLOOK,32,SLAM,36,CURSE,40,SHADOWBALL,44,EARTHQUAKE,48,POWERSPLIT,48,GUARDSPLIT,52,DESTINYBOND
+WildItemUncommon=
+Evolutions=RUNERIGUS,Level,49
+#-------------------------------
+[DEERLING-1]
+FormName=Summer Form
+#-------------------------------
+[DEERLING-2]
+FormName=Autumn Form
+#-------------------------------
+[DEERLING-3]
+FormName=Winter Form
+#-------------------------------
+[SAWSBUCK-1]
+FormName=Summer Form
+#-------------------------------
+[SAWSBUCK-2]
+FormName=Autumn Form
+#-------------------------------
+[SAWSBUCK-3]
+FormName=Winter Form
+#-------------------------------
+[STUNFISK-1]
+FormName=Galar Form
+Type1=GROUND
+Type2=STEEL
+BaseStats=109,81,99,32,66,84
+Happiness=50
+Abilities=MIMICRY
+Moves=1,MUDSLAP,1,TACKLE,1,WATERGUN,1,METALCLAW,5,ENDURE,10,MUDSHOT,15,REVENGE,20,METALSOUND,25,SUCKERPUNCH,30,IRONDEFENSE,35,BOUNCE,40,MUDDYWATER,45,SNAPTRAP,50,FLAIL,55,FISSURE
+EggMoves=BIND,YAWN,ASTONISH,CURSE,SPITE,COUNTER,PAINSPLIT,REFLECTTYPE
+Weight=20.5
+Color=Green
+WildItemUncommon=
+#-------------------------------
+[TORNADUS-1]
+FormName=Therian Forme
+BaseStats=79,100,80,121,110,90
+EffortPoints=0,0,0,3,0,0
+Abilities=REGENERATOR
+HiddenAbility=DEFIANT
+Height=1.4
+Shape=9
+BattlerPlayerY=8
+BattlerEnemyY=11
+BattlerAltitude=0
+#-------------------------------
+[THUNDURUS-1]
+FormName=Therian Forme
+BaseStats=79,105,70,101,145,80
+EffortPoints=0,0,0,0,3,0
+Abilities=VOLTABSORB
+HiddenAbility=DEFIANT
+Height=3.0
+Shape=6
+BattlerPlayerY=2
+BattlerAltitude=7
+#-------------------------------
+[LANDORUS-1]
+FormName=Therian Forme
+BaseStats=89,145,90,71,105,80
+EffortPoints=0,3,0,0,0,0
+Abilities=INTIMIDATE
+HiddenAbility=SHEERFORCE
+Height=1.3
+Shape=8
+BattlerPlayerY=6
+BattlerEnemyY=11
+BattlerAltitude=0
+#-------------------------------
+[KYUREM-1]
+FormName=White Kyurem
+BaseStats=125,120,90,95,170,100
+EffortPoints=0,0,0,0,3,0
+Abilities=TURBOBLAZE
+Moves=1,DRAGONBREATH,1,NOBLEROAR,1,ANCIENTPOWER,1,FREEZEDRY,8,SLASH,16,ENDEAVOR,24,DRAGONPULSE,32,ICEBEAM,40,HYPERVOICE,48,FUSIONFLARE,56,BLIZZARD,64,IMPRISON,72,OUTRAGE,80,ICEBURN,88,SHEERCOLD
+Height=3.6
+BattlerPlayerY=2
+BattlerEnemyY=7
+#-------------------------------
+[KYUREM-2]
+FormName=Black Kyurem
+BaseStats=125,170,100,95,120,90
+EffortPoints=0,3,0,0,0,0
+Abilities=TERAVOLT
+Moves=1,DRAGONBREATH,1,NOBLEROAR,1,ANCIENTPOWER,1,FREEZEDRY,8,SLASH,16,ENDEAVOR,24,DRAGONPULSE,32,ICEBEAM,40,HYPERVOICE,48,FUSIONBOLT,56,BLIZZARD,64,IMPRISON,72,OUTRAGE,80,FREEZESHOCK,88,SHEERCOLD
+Height=3.3
+BattlerPlayerY=0
+BattlerEnemyY=4
+#-------------------------------
+[KELDEO-1]
+FormName=Resolute Form
+BattlerPlayerY=17
+BattlerEnemyY=21
+#-------------------------------
+[MELOETTA-1]
+FormName=Pirouette Forme
+Type1=NORMAL
+Type2=FIGHTING
+BaseStats=100,128,90,128,77,77
+EffortPoints=0,1,1,1,0,0
+BattlerPlayerY=16
+BattlerEnemyY=20
+#-------------------------------
+[GENESECT-1]
+#-------------------------------
+[GENESECT-2]
+#-------------------------------
+[GENESECT-3]
+#-------------------------------
+[GENESECT-4]
+#-------------------------------
+[GRENINJA-1]
+Abilities=BATTLEBOND
+#-------------------------------
+[GRENINJA-2]
+FormName=Ash-Greninja
+BaseStats=72,145,67,132,153,71
+BaseEXP=288
+Abilities=BATTLEBOND
+BattlerPlayerY=15
+BattlerEnemyY=19
+#-------------------------------
+[SCATTERBUG-1]
+#-------------------------------
+[SCATTERBUG-2]
+#-------------------------------
+[SCATTERBUG-3]
+#-------------------------------
+[SCATTERBUG-4]
+#-------------------------------
+[SCATTERBUG-5]
+#-------------------------------
+[SCATTERBUG-6]
+#-------------------------------
+[SCATTERBUG-7]
+#-------------------------------
+[SCATTERBUG-8]
+#-------------------------------
+[SCATTERBUG-9]
+#-------------------------------
+[SCATTERBUG-10]
+#-------------------------------
+[SCATTERBUG-11]
+#-------------------------------
+[SCATTERBUG-12]
+#-------------------------------
+[SCATTERBUG-13]
+#-------------------------------
+[SCATTERBUG-14]
+#-------------------------------
+[SCATTERBUG-15]
+#-------------------------------
+[SCATTERBUG-16]
+#-------------------------------
+[SCATTERBUG-17]
+#-------------------------------
+[SCATTERBUG-18]
+#-------------------------------
+[SCATTERBUG-19]
+#-------------------------------
+[SPEWPA-1]
+#-------------------------------
+[SPEWPA-2]
+#-------------------------------
+[SPEWPA-3]
+#-------------------------------
+[SPEWPA-4]
+#-------------------------------
+[SPEWPA-5]
+#-------------------------------
+[SPEWPA-6]
+#-------------------------------
+[SPEWPA-7]
+#-------------------------------
+[SPEWPA-8]
+#-------------------------------
+[SPEWPA-9]
+#-------------------------------
+[SPEWPA-10]
+#-------------------------------
+[SPEWPA-11]
+#-------------------------------
+[SPEWPA-12]
+#-------------------------------
+[SPEWPA-13]
+#-------------------------------
+[SPEWPA-14]
+#-------------------------------
+[SPEWPA-15]
+#-------------------------------
+[SPEWPA-16]
+#-------------------------------
+[SPEWPA-17]
+#-------------------------------
+[SPEWPA-18]
+#-------------------------------
+[SPEWPA-19]
+#-------------------------------
+[VIVILLON-1]
+FormName=Polar Pattern
+#-------------------------------
+[VIVILLON-2]
+FormName=Tundra Pattern
+#-------------------------------
+[VIVILLON-3]
+FormName=Continental Pattern
+#-------------------------------
+[VIVILLON-4]
+FormName=Garden Pattern
+#-------------------------------
+[VIVILLON-5]
+FormName=Elegant Pattern
+#-------------------------------
+[VIVILLON-6]
+FormName=Meadow Pattern
+#-------------------------------
+[VIVILLON-7]
+FormName=Modern Pattern
+#-------------------------------
+[VIVILLON-8]
+FormName=Marine Pattern
+#-------------------------------
+[VIVILLON-9]
+FormName=Archipelago Pattern
+#-------------------------------
+[VIVILLON-10]
+FormName=High Plains Pattern
+#-------------------------------
+[VIVILLON-11]
+FormName=Sandstorm Pattern
+#-------------------------------
+[VIVILLON-12]
+FormName=River Pattern
+#-------------------------------
+[VIVILLON-13]
+FormName=Monsoon Pattern
+#-------------------------------
+[VIVILLON-14]
+FormName=Savanna Pattern
+#-------------------------------
+[VIVILLON-15]
+FormName=Sun Pattern
+#-------------------------------
+[VIVILLON-16]
+FormName=Ocean Pattern
+#-------------------------------
+[VIVILLON-17]
+FormName=Jungle Pattern
+#-------------------------------
+[VIVILLON-18]
+FormName=Fancy Pattern
+#-------------------------------
+[VIVILLON-19]
+FormName=Poké Ball Pattern
+#-------------------------------
+[FLABEBE-1]
+FormName=Yellow Flower
+#-------------------------------
+[FLABEBE-2]
+FormName=Orange Flower
+#-------------------------------
+[FLABEBE-3]
+FormName=Blue Flower
+#-------------------------------
+[FLABEBE-4]
+FormName=White Flower
+#-------------------------------
+[FLOETTE-1]
+FormName=Yellow Flower
+#-------------------------------
+[FLOETTE-2]
+FormName=Orange Flower
+#-------------------------------
+[FLOETTE-3]
+FormName=Blue Flower
+#-------------------------------
+[FLOETTE-4]
+FormName=White Flower
+#-------------------------------
+[FLOETTE-5]
+FormName=Eternal Flower
+BaseStats=74,65,67,92,125,128
+BaseEXP=243
+Moves=1,TACKLE,1,VINEWHIP,1,FAIRYWIND,6,FAIRYWIND,10,LUCKYCHANT,15,RAZORLEAF,20,WISH,25,MAGICALLEAF,27,GRASSYTERRAIN,33,PETALBLIZZARD,38,AROMATHERAPY,43,MISTYTERRAIN,46,MOONBLAST,50,LIGHTOFRUIN,51,PETALDANCE,58,SOLARBEAM
+BattlerPlayerY=15
+BattlerEnemyY=19
+#-------------------------------
+[FLORGES-1]
+FormName=Yellow Flower
+#-------------------------------
+[FLORGES-2]
+FormName=Orange Flower
+#-------------------------------
+[FLORGES-3]
+FormName=Blue Flower
+#-------------------------------
+[FLORGES-4]
+FormName=White Flower
+#-------------------------------
+[FURFROU-1]
+FormName=Heart Trim
+#-------------------------------
+[FURFROU-2]
+FormName=Star Trim
+#-------------------------------
+[FURFROU-3]
+FormName=Diamond Trim
+#-------------------------------
+[FURFROU-4]
+FormName=Debutante Trim
+#-------------------------------
+[FURFROU-5]
+FormName=Matron Trim
+#-------------------------------
+[FURFROU-6]
+FormName=Dandy Trim
+#-------------------------------
+[FURFROU-7]
+FormName=La Reine Trim
+#-------------------------------
+[FURFROU-8]
+FormName=Kabuki Trim
+#-------------------------------
+[FURFROU-9]
+FormName=Pharaoh Trim
+#-------------------------------
+[MEOWSTIC-1]
+FormName=Female
+Abilities=KEENEYE,INFILTRATOR
+HiddenAbility=COMPETITIVE
+Moves=1,MAGICALLEAF,1,SCRATCH,1,LEER,1,FAKEOUT,1,DISARMINGVOICE,9,CONFUSION,12,STOREDPOWER,15,CHARGEBEAM,18,COVET,21,PSYBEAM,24,SUCKERPUNCH,29,ROLEPLAY,34,LIGHTSCREEN,34,REFLECT,39,PSYSHOCK,44,EXTRASENSORY,49,SHADOWBALL,54,PSYCHIC,59,FUTURESIGHT
+Color=White
+#-------------------------------
+[AEGISLASH-1]
+FormName=Blade Forme
+BaseStats=60,140,50,60,140,50
+EffortPoints=0,2,0,0,1,0
+BattlerPlayerY=9
+BattlerEnemyY=13
+#-------------------------------
+[PUMPKABOO-1]
+FormName=Small Size
+BaseStats=44,66,70,56,44,55
+Height=0.3
+Weight=3.5
+BattlerPlayerY=31
+BattlerEnemyY=35
+#-------------------------------
+[PUMPKABOO-2]
+FormName=Large Size
+BaseStats=54,66,70,46,44,55
+Height=0.5
+Weight=7.5
+BattlerPlayerY=28
+BattlerEnemyY=32
+#-------------------------------
+[PUMPKABOO-3]
+FormName=Super Size
+BaseStats=59,66,70,41,44,55
+Height=0.8
+Weight=15.0
+WildItemCommon=MIRACLESEED
+WildItemUncommon=MIRACLESEED
+WildItemRare=MIRACLESEED
+BattlerPlayerY=27
+BattlerEnemyY=31
+#-------------------------------
+[GOURGEIST-1]
+FormName=Small Size
+BaseStats=55,85,122,99,58,75
+Height=0.7
+Weight=9.5
+BattlerPlayerY=13
+BattlerEnemyY=18
+#-------------------------------
+[GOURGEIST-2]
+FormName=Large Size
+BaseStats=75,95,122,69,58,75
+Height=1.1
+Weight=14.0
+BattlerPlayerY=11
+BattlerEnemyY=15
+#-------------------------------
+[GOURGEIST-3]
+FormName=Super Size
+BaseStats=85,100,122,54,58,75
+Height=1.7
+Weight=39.0
+WildItemCommon=MIRACLESEED
+WildItemUncommon=MIRACLESEED
+WildItemRare=MIRACLESEED
+BattlerPlayerY=8
+BattlerEnemyY=12
+#-------------------------------
+[XERNEAS-1]
+FormName=Active Mode
+#-------------------------------
+[ZYGARDE-1]
+FormName=Zygarde 10% Forme
+BaseStats=54,100,71,115,61,85
+BaseEXP=219
+Height=1.2
+Weight=33.5
+Color=Black
+Shape=8
+#-------------------------------
+[ZYGARDE-2]
+BaseStats=54,100,71,115,61,85
+BaseEXP=219
+Abilities=POWERCONSTRUCT
+Height=1.2
+Weight=33.5
+Color=Black
+Shape=8
+#-------------------------------
+[ZYGARDE-3]
+Abilities=POWERCONSTRUCT
+#-------------------------------
+[ZYGARDE-4]
+FormName=Zygarde Complete Forme
+BaseStats=216,100,121,85,91,95
+BaseEXP=319
+Abilities=POWERCONSTRUCT
+Height=4.5
+Weight=610.0
+Color=Black
+Shape=6
+#-------------------------------
+[DIANCIE-1]
+FormName=Mega Diancie
+MegaStone=DIANCITE
+BaseStats=50,160,110,110,160,110
+BaseEXP=315
+Abilities=MAGICBOUNCE
+Height=1.1
+Weight=27.8
+BattlerPlayerY=6
+BattlerEnemyY=9
+#-------------------------------
+[HOOPA-1]
+FormName=Hoopa Unbound
+Type1=PSYCHIC
+Type2=DARK
+BaseStats=80,160,60,80,170,130
+BaseEXP=306
+Moves=1,HYPERSPACEFURY,1,TRICK,1,DESTINYBOND,1,ALLYSWITCH,1,CONFUSION,6,ASTONISH,10,MAGICCOAT,15,LIGHTSCREEN,19,PSYBEAM,25,SKILLSWAP,29,POWERSPLIT,29,GUARDSPLIT,46,KNOCKOFF,50,WONDERROOM,50,TRICKROOM,55,DARKPULSE,75,PSYCHIC,85,HYPERSPACEFURY
+Height=6.5
+Weight=490.0
+Shape=6
+BattlerPlayerY=0
+BattlerEnemyY=4
+#-------------------------------
+[ORICORIO-1]
+FormName=Pom Pom Style
+Type1=ELECTRIC
+Type2=FLYING
+Color=Yellow
+BattlerPlayerY=21
+BattlerEnemyY=25
+#-------------------------------
+[ORICORIO-2]
+FormName=Pa'u Style
+Type1=PSYCHIC
+Type2=FLYING
+Color=Pink
+BattlerPlayerY=20
+BattlerEnemyY=24
+#-------------------------------
+[ORICORIO-3]
+FormName=Sensu Style
+Type1=GHOST
+Type2=FLYING
+Color=Purple
+BattlerPlayerY=21
+BattlerEnemyY=25
+#-------------------------------
+[ROCKRUFF-1]
+Abilities=OWNTEMPO
+Evolutions=LYCANROC,LevelDusk,25
+#-------------------------------
+[LYCANROC-1]
+FormName=Midnight Form
+BaseStats=85,115,75,82,55,75
+Abilities=KEENEYE,VITALSPIRIT
+HiddenAbility=NOGUARD
+Moves=0,COUNTER,1,COUNTER,1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+Height=1.1
+Color=Red
+Shape=6
+BattlerPlayerY=13
+BattlerEnemyY=14
+#-------------------------------
+[LYCANROC-2]
+FormName=Dusk Form
+BaseStats=75,117,65,110,55,65
+Abilities=TOUGHCLAWS
+Moves=0,THRASH,1,THRASH,1,ACCELEROCK,1,COUNTER,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE,12,HOWL,15,ROCKTHROW,18,ODORSLEUTH,23,ROCKTOMB,26,ROAR,29,STEALTHROCK,34,ROCKSLIDE,37,SCARYFACE,40,CRUNCH,45,ROCKCLIMB,48,STONEEDGE
+#-------------------------------
+[WISHIWASHI-1]
+FormName=School Form
+BaseStats=45,140,130,30,140,135
+BaseEXP=217
+Height=8.2
+Weight=78.6
+Shape=11
+BattlerPlayerY=9
+BattlerEnemyY=16
+BattlerAltitude=6
+#-------------------------------
+[SILVALLY-1]
+FormName=Type: Fighting
+Type1=FIGHTING
+#-------------------------------
+[SILVALLY-2]
+FormName=Type: Flying
+Type1=FLYING
+#-------------------------------
+[SILVALLY-3]
+FormName=Type: Poison
+Type1=POISON
+#-------------------------------
+[SILVALLY-4]
+FormName=Type: Ground
+Type1=GROUND
+#-------------------------------
+[SILVALLY-5]
+FormName=Type: Rock
+Type1=ROCK
+#-------------------------------
+[SILVALLY-6]
+FormName=Type: Bug
+Type1=BUG
+#-------------------------------
+[SILVALLY-7]
+FormName=Type: Ghost
+Type1=GHOST
+#-------------------------------
+[SILVALLY-8]
+FormName=Type: Steel
+Type1=STEEL
+#-------------------------------
+[SILVALLY-9]
+FormName=Type: Fire
+Type1=FIRE
+#-------------------------------
+[SILVALLY-10]
+FormName=Type: Water
+Type1=WATER
+#-------------------------------
+[SILVALLY-11]
+FormName=Type: Grass
+Type1=GRASS
+#-------------------------------
+[SILVALLY-12]
+FormName=Type: Electric
+Type1=ELECTRIC
+#-------------------------------
+[SILVALLY-13]
+FormName=Type: Psychic
+Type1=PSYCHIC
+#-------------------------------
+[SILVALLY-14]
+FormName=Type: Ice
+Type1=ICE
+#-------------------------------
+[SILVALLY-15]
+FormName=Type: Dragon
+Type1=DRAGON
+#-------------------------------
+[SILVALLY-16]
+FormName=Type: Dark
+Type1=DARK
+#-------------------------------
+[SILVALLY-17]
+FormName=Type: Fairy
+Type1=FAIRY
+#-------------------------------
+[MINIOR-1]
+FormName=Meteor Form
+#-------------------------------
+[MINIOR-2]
+FormName=Meteor Form
+#-------------------------------
+[MINIOR-3]
+FormName=Meteor Form
+#-------------------------------
+[MINIOR-4]
+FormName=Meteor Form
+#-------------------------------
+[MINIOR-5]
+FormName=Meteor Form
+#-------------------------------
+[MINIOR-6]
+FormName=Meteor Form
+#-------------------------------
+[MINIOR-7]
+FormName=Red Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Red
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MINIOR-8]
+FormName=Orange Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Red
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MINIOR-9]
+FormName=Yellow Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Yellow
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MINIOR-10]
+FormName=Green Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Green
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MINIOR-11]
+FormName=Blue Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Blue
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MINIOR-12]
+FormName=Indigo Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Blue
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MINIOR-13]
+FormName=Violet Core
+BaseStats=60,100,60,120,100,60
+BaseEXP=175
+EffortPoints=0,1,0,0,1,0
+Color=Purple
+BattlerPlayerY=32
+BattlerEnemyY=36
+#-------------------------------
+[MIMIKYU-1]
+FormName=Busted Form
+BattlerPlayerY=33
+BattlerEnemyY=38
+#-------------------------------
+[SOLGALEO-1]
+FormName=Radiant Sun phase
+#-------------------------------
+[LUNALA-1]
+FormName=Full Moon phase
+#-------------------------------
+[NECROZMA-1]
+FormName=Dusk Mane Necrozma
+Type1=PSYCHIC
+Type2=STEEL
+BaseStats=97,157,127,77,113,109
+BaseEXP=306
+EffortPoints=0,3,0,0,0,0
+Height=3.8
+Weight=460.0
+Color=Yellow
+Shape=8
+#-------------------------------
+[NECROZMA-2]
+FormName=Dawn Wings Necrozma
+Type1=PSYCHIC
+Type2=GHOST
+BaseStats=97,113,109,77,157,127
+BaseEXP=306
+EffortPoints=0,0,0,0,3,0
+Height=4.2
+Weight=350.0
+Color=Blue
+Shape=9
+#-------------------------------
+[NECROZMA-3]
+FormName=Ultra Necrozma
+Type1=PSYCHIC
+Type2=DRAGON
+BaseStats=97,167,97,129,167,97
+BaseEXP=339
+EffortPoints=0,1,0,1,1,0
+Height=7.5
+Color=Yellow
+Shape=13
+#-------------------------------
+[MAGEARNA-1]
+FormName=Original Color
+Color=Red
+#-------------------------------
+[CRAMORANT-1]
+FormName=Gulping Form
+#-------------------------------
+[CRAMORANT-2]
+FormName=Gorging Form
+#-------------------------------
+[TOXTRICITY-1]
+FormName=Low Key Form
+Abilities=PUNKROCK,MINUS
+Moves=0,SPARK,1,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,ACID,1,THUNDERSHOCK,1,ACIDSPRAY,1,LEER,1,NOBLEROAR,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,20,VENOMDRENCH,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,MAGNETICFLUX
+#-------------------------------
+[SINISTEA-1]
+FormName=Antique Form
+Evolutions=POLTEAGEIST,Item,CHIPPEDPOT
+#-------------------------------
+[POLTEAGEIST-1]
+FormName=Antique Form
+#-------------------------------
+[EISCUE-1]
+FormName=Noice Face
+BaseStats=75,80,70,130,65,50
+#-------------------------------
+[INDEEDEE-1]
+FormName=Female
+BaseStats=70,55,65,85,95,105
+EffortPoints=0,0,0,0,0,2
+Abilities=OWNTEMPO,SYNCHRONIZE
+HiddenAbility=PSYCHICSURGE
+Moves=1,STOREDPOWER,1,PLAYNICE,5,BATONPASS,10,DISARMINGVOICE,15,PSYBEAM,20,HELPINGHAND,25,FOLLOWME,30,AROMATHERAPY,35,PSYCHIC,40,CALMMIND,45,GUARDSPLIT,50,PSYCHICTERRAIN,55,HEALINGWISH
+EggMoves=PSYCHUP,FAKEOUT,PSYCHOSHIFT,HEALPULSE
+#-------------------------------
+[MORPEKO-1]
+FormName=Hangry Mode
+#-------------------------------
+[ZACIAN-1]
+FormName=Crowned Sword
+Type1=FAIRY
+Type2=STEEL
+BaseStats=92,170,115,148,80,115
+BaseEXP=360
+Weight=355.0
+#-------------------------------
+[ZAMAZENTA-1]
+FormName=Crowned Shield
+Type1=FIGHTING
+Type2=STEEL
+BaseStats=92,130,145,128,80,145
+BaseEXP=360
+Weight=785.0
+#-------------------------------
+[ETERNATUS-1]
+FormName=Eternamax Form
+BaseStats=255,115,250,130,125,250
+BaseEXP=563
+Height=100.0
+Weight=0.1
+Shape=2
