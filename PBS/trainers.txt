@@ -98,8 +98,9 @@ CATERPIE,10
 #-------------------
 YOUNGSTER
 Ben
-1
+2
 SKWOVET,6
+RATTATA,7
 #-------------------
 BUGCATCHER
 Greg
