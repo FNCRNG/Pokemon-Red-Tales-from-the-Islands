@@ -242,3 +242,5 @@
 290,North,0,292,South,0
 # Two Island (290) - Cape Bellowe (360)
 290,East,0,360,West,10
+# Route 27 (372) - Route 26 (371)
+372,East,0,371,West,97
