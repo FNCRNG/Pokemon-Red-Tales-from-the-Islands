@@ -236,11 +236,11 @@
 299,North,0,308,South,114
 # Three Isle Port (299) - Three Island (297)
 299,North,2,297,South,0
+# Route 27 (372) - Route 26 (371)
+372,East,0,371,West,97
 # Cape Bellowe (360) - Cape Brink (292)
 360,West,0,292,East,23
 # Two Island (290) - Cape Brink (292)
 290,North,0,292,South,0
 # Two Island (290) - Cape Bellowe (360)
 290,East,0,360,West,10
-# Route 27 (372) - Route 26 (371)
-372,East,0,371,West,97
