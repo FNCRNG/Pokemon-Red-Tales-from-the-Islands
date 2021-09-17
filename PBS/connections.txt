@@ -242,5 +242,7 @@
 360,West,0,292,East,23
 # Two Island (290) - Cape Brink (292)
 290,North,0,292,South,0
+# Cape Bellowe (360) - Bellowe Rock (375)
+360,South,0,375,North,11
 # Two Island (290) - Cape Bellowe (360)
 290,East,0,360,West,10

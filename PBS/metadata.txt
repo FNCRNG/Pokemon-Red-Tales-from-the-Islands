@@ -1,25 +1,25 @@
 ﻿#-------------------------------
 [000]
+WildVictoryME=frlg_wildvictory.ogg
+SurfBGM=frlg_surf.ogg
+TrainerBattleBGM=frlg_trainerbattle.ogg
+BicycleBGM=frlg_cycling.ogg
+WildBattleBGM=frlg_wildpoke.ogg
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fishsurf_offset
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fishsurf_offset
-SurfBGM=frlg_surf.ogg
-TrainerVictoryME=frlg_trainervictory.ogg
 Home=353,7,5,8
-BicycleBGM=frlg_cycling.ogg
-WildVictoryME=frlg_wildvictory.ogg
-TrainerBattleBGM=frlg_trainerbattle.ogg
-WildBattleBGM=frlg_wildpoke.ogg
+TrainerVictoryME=frlg_trainervictory.ogg
 #-------------------------------
 [002]
 # Pallet Town
-ShowArea=true
 MapPosition=0,13,13
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [003]
 # Pallet Town
-HealingSpot=2,8,8
 MapPosition=0,13,13
+HealingSpot=2,8,8
 #-------------------------------
 [004]
 # Pallet Town
@@ -27,21 +27,21 @@ MapPosition=0,13,13
 #-------------------------------
 [005]
 # Route 1
-ShowArea=true
 MapPosition=0,13,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [006]
 # Cerulean Cave
-ShowArea=true
 MapPosition=0,21,5
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [007]
 # Viridian City
-ShowArea=true
 MapPosition=0,12,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [008]
 # Pallet Town
@@ -57,57 +57,57 @@ MapPosition=0,18,9
 #-------------------------------
 [011]
 # Cerulean Cave
-ShowArea=true
 MapPosition=0,21,5
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [012]
 # Cerulean Cave
-ShowArea=true
 MapPosition=0,21,5
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [013]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [014]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [015]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [016]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [017]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [018]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [019]
 # Four Island
-ShowArea=true
 MapPosition=2,7,7
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [020]
 # Four Island
@@ -139,39 +139,39 @@ MapPosition=2,7,7
 #-------------------------------
 [027]
 # Icefall Cave
-ShowArea=true
 MapPosition=2,7,7
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [028]
 # Icefall Cave
-ShowArea=true
 MapPosition=2,7,7
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [029]
 # Icefall Cave
-ShowArea=true
 MapPosition=2,7,7
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [030]
 # Icefall Cave
-ShowArea=true
 MapPosition=2,7,7
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [031]
 # Five Island
-ShowArea=true
 MapPosition=2,20,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [032]
 # Route 22
-ShowArea=true
 MapPosition=0,10,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [033]
 # Five Island
@@ -191,15 +191,15 @@ MapPosition=2,20,14
 #-------------------------------
 [037]
 # Water Labyrinth
-ShowArea=true
 MapPosition=2,19,13
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [038]
 # Resort Gorgeous
-ShowArea=true
 MapPosition=2,21,12
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [039]
 # Route 15
@@ -211,51 +211,51 @@ MapPosition=2,21,12
 #-------------------------------
 [041]
 # Lost Cave
-ShowArea=true
 MapPosition=2,22,12
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [042]
 # Lost Cave
-ShowArea=true
 MapPosition=2,22,12
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [043]
 # Route 2
-ShowArea=true
 MapPosition=0,13,8
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [044]
 # Lost Cave
-ShowArea=true
 MapPosition=2,22,12
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [045]
 # Five Isle Meadow
-ShowArea=true
 MapPosition=2,21,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [047]
 # Memorial Pillar
-ShowArea=true
 MapPosition=2,22,16
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [048]
 # Viridian Forest
-ShowArea=true
 MapPosition=0,13,7
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [049]
 # Six Island
-ShowArea=true
 MapPosition=3,9,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [050]
 # Six Island
@@ -275,9 +275,9 @@ MapPosition=3,9,11
 #-------------------------------
 [054]
 # Water Path
-ShowArea=true
 MapPosition=3,22,8
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [055]
 # Water Path
@@ -289,87 +289,87 @@ MapPosition=3,22,8
 #-------------------------------
 [057]
 # Ruin Valley
-ShowArea=true
 MapPosition=3,20,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [058]
 # Dotted Hole
-ShowArea=true
 MapPosition=3,20,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [059]
 # Dotted Hole
-ShowArea=true
 MapPosition=3,20,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [060]
 # Dotted Hole
-ShowArea=true
 MapPosition=3,20,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [061]
 # Dotted Hole
-ShowArea=true
 MapPosition=3,20,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [062]
 # Dotted Hole
-ShowArea=true
 MapPosition=3,20,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [063]
 # Dotted Hole
-ShowArea=true
 MapPosition=3,20,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [064]
 # Green Path
-ShowArea=true
 MapPosition=3,20,6
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [065]
 # Pattern Bush
-ShowArea=true
 MapPosition=3,21,6
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [066]
 # Outcast Island
-ShowArea=true
 MapPosition=3,19,4
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [067]
 # Altering Cave
-ShowArea=true
 MapPosition=3,19,3
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [068]
 # Altering Cave
-ShowArea=true
 MapPosition=3,19,3
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [069]
 # Three Isle Path
-ShowArea=true
 MapPosition=1,22,16
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [070]
 # Seven Island
-ShowArea=true
 MapPosition=3,9,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [071]
 # Seven Island
@@ -389,9 +389,9 @@ MapPosition=3,9,11
 #-------------------------------
 [075]
 # Trainer Tower
-ShowArea=true
 MapPosition=3,9,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [076]
 # Trainer Tower
@@ -403,15 +403,15 @@ MapPosition=3,9,9
 #-------------------------------
 [078]
 # Canyon Entrance
-ShowArea=true
 MapPosition=3,9,12
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [079]
 # Route 3
-ShowArea=true
 MapPosition=0,15,5
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [081]
 # Viridian City
@@ -442,15 +442,15 @@ Bicycle=true
 #-------------------------------
 [087]
 # Pewter City
-ShowArea=true
 MapPosition=0,13,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [088]
 # Sevault Canyon
-ShowArea=true
 MapPosition=3,10,13
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [089]
 # Pewter City
@@ -478,9 +478,9 @@ MapPosition=0,13,14
 #-------------------------------
 [095]
 # Route 4
-ShowArea=true
 MapPosition=0,19,5
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [096]
 # Route 4
@@ -488,27 +488,27 @@ MapPosition=0,19,5
 #-------------------------------
 [097]
 # Mt. Moon
-ShowArea=true
 MapPosition=0,17,5
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [098]
 # Mt. Moon
-ShowArea=true
 MapPosition=0,17,5
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [099]
 # Mt. Moon
-ShowArea=true
 MapPosition=0,17,5
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [100]
 # Cerulean City
-ShowArea=true
 MapPosition=0,21,5
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [101]
 # Cerulean City
@@ -544,21 +544,21 @@ MapPosition=0,21,5
 #-------------------------------
 [109]
 # Route 24
-ShowArea=true
 MapPosition=0,22,3
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [110]
 # Route 4
-ShowArea=true
 MapPosition=0,19,5
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [111]
 # Route 25
-ShowArea=true
 MapPosition=0,24,3
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [112]
 # Route 25
@@ -570,9 +570,9 @@ MapPosition=0,21,5
 #-------------------------------
 [114]
 # Route 5
-ShowArea=true
 MapPosition=0,21,7
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [115]
 # Route 5
@@ -585,25 +585,25 @@ Bicycle=true
 #-------------------------------
 [117]
 # Underground Path
-ShowArea=true
 MapPosition=0,21,7
+ShowArea=true
 #-------------------------------
 [118]
 # Underground Path
-ShowArea=true
 MapPosition=0,21,10
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [119]
 # Underground Path
-ShowArea=true
 MapPosition=0,21,10
+ShowArea=true
 #-------------------------------
 [120]
 # Route 6
-ShowArea=true
 MapPosition=0,21,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [121]
 # Route 6
@@ -612,9 +612,9 @@ Bicycle=true
 #-------------------------------
 [122]
 # Vermilion City
-ShowArea=true
 MapPosition=0,21,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [123]
 # Vermilion City
@@ -642,20 +642,20 @@ MapPosition=0,21,11
 #-------------------------------
 [129]
 # Route 11
-ShowArea=true
 MapPosition=0,24,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [130]
 # Diglett's Cave
-ShowArea=true
 MapPosition=0,13,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [131]
 # Diglett's Cave
-ShowArea=true
 MapPosition=0,13,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [132]
@@ -669,25 +669,25 @@ Bicycle=true
 #-------------------------------
 [134]
 # Route 12
-ShowArea=true
 MapPosition=0,25,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [135]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [136]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
+ShowArea=true
 #-------------------------------
 [137]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
+ShowArea=true
 #-------------------------------
 [138]
 # S.S. Anne
@@ -695,29 +695,29 @@ ShowArea=true
 #-------------------------------
 [139]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
+ShowArea=true
 #-------------------------------
 [140]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
+ShowArea=true
 #-------------------------------
 [141]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
+ShowArea=true
 #-------------------------------
 [142]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
+ShowArea=true
 #-------------------------------
 [143]
 # S.S. Anne
-ShowArea=true
 MapPosition=0,21,12
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [144]
 # Vermilion City
@@ -730,35 +730,35 @@ Bicycle=true
 #-------------------------------
 [146]
 # Route 9
-ShowArea=true
 MapPosition=0,23,6
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [147]
 # Route 10
-ShowArea=true
 MapPosition=0,25,8
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [149]
 # Rock Tunnel
-ShowArea=true
-DarkMap=true
 MapPosition=0,25,6
+DarkMap=true
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [150]
 # Rock Tunnel
-ShowArea=true
-DarkMap=true
 MapPosition=0,25,6
+DarkMap=true
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [151]
 # Lavender Town
-ShowArea=true
 MapPosition=0,25,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [152]
 # Lavender Town
@@ -778,49 +778,49 @@ MapPosition=0,25,9
 #-------------------------------
 [156]
 # Lavender Town
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [157]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [158]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [159]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [160]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [161]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [162]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [163]
 # Pokémon Tower
-ShowArea=true
 MapPosition=0,25,9
+ShowArea=true
 #-------------------------------
 [164]
 # Route 8
-ShowArea=true
 MapPosition=0,23,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [165]
 # Route 8
@@ -829,25 +829,25 @@ Bicycle=true
 #-------------------------------
 [166]
 # Underground Path
-ShowArea=true
 MapPosition=0,23,9
+ShowArea=true
 #-------------------------------
 [167]
 # Underground Path
-ShowArea=true
 MapPosition=0,20,9
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [168]
 # Underground Path
-ShowArea=true
 MapPosition=0,20,9
+ShowArea=true
 #-------------------------------
 [169]
 # Route 7
-ShowArea=true
 MapPosition=0,20,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [170]
 # Route 7
@@ -856,9 +856,9 @@ Bicycle=true
 #-------------------------------
 [171]
 # Celadon City
-ShowArea=true
 MapPosition=0,18,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [172]
 # Celadon City
@@ -926,28 +926,28 @@ MapPosition=0,18,9
 #-------------------------------
 [188]
 # Rocket Hideout
-ShowArea=true
 MapPosition=0,18,9
+ShowArea=true
 #-------------------------------
 [189]
 # Rocket Hideout
-ShowArea=true
 MapPosition=0,18,9
+ShowArea=true
 #-------------------------------
 [190]
 # Rocket Hideout
-ShowArea=true
 MapPosition=0,18,9
+ShowArea=true
 #-------------------------------
 [191]
 # Rocket Hideout
-ShowArea=true
 MapPosition=0,18,9
+ShowArea=true
 #-------------------------------
 [192]
 # Rocket Hideout
-ShowArea=true
 MapPosition=0,18,9
+ShowArea=true
 #-------------------------------
 [193]
 # Celadon City
@@ -955,16 +955,16 @@ MapPosition=0,18,9
 #-------------------------------
 [194]
 # Route 16
-ShowArea=true
 MapPosition=0,16,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [195]
 # Route 16
-ShowArea=true
 MapPosition=0,16,10
-BicycleAlways=true
 Outdoor=true
+ShowArea=true
+BicycleAlways=true
 #-------------------------------
 [196]
 # Route 16
@@ -977,17 +977,17 @@ MapPosition=0,16,10
 #-------------------------------
 [198]
 # Route 17
-ShowArea=true
 MapPosition=0,16,12
-BicycleAlways=true
 Outdoor=true
+ShowArea=true
+BicycleAlways=true
 #-------------------------------
 [199]
 # Route 18
-ShowArea=true
 MapPosition=0,16,15
-BicycleAlways=true
 Outdoor=true
+ShowArea=true
+BicycleAlways=true
 #-------------------------------
 [200]
 # Route 18
@@ -996,15 +996,15 @@ Bicycle=true
 #-------------------------------
 [201]
 # Route 18
-ShowArea=true
 MapPosition=0,16,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [202]
 # Fuchsia City
-ShowArea=true
 MapPosition=0,18,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [203]
 # Fuchsia City
@@ -1040,26 +1040,26 @@ MapPosition=0,18,14
 #-------------------------------
 [211]
 # Safari Zone
-ShowArea=true
 MapPosition=0,18,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [212]
 # Alola Biodome
-ShowArea=true
 MapPosition=0,18,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [213]
 # Alola Biodome
-ShowArea=true
 MapPosition=0,18,14
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [214]
 # Alola Biodome
-ShowArea=true
 MapPosition=0,18,14
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [215]
@@ -1072,9 +1072,9 @@ MapPosition=0,18,14
 #-------------------------------
 [217]
 # Safari Zone
-ShowArea=true
 MapPosition=0,18,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [218]
 # Safari Zone
@@ -1082,9 +1082,9 @@ MapPosition=0,18,14
 #-------------------------------
 [219]
 # Safari Zone
-ShowArea=true
 MapPosition=0,18,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [220]
 # Safari Zone
@@ -1092,9 +1092,9 @@ MapPosition=0,18,14
 #-------------------------------
 [221]
 # Safari Zone
-ShowArea=true
 MapPosition=0,18,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [222]
 # Safari Zone
@@ -1119,27 +1119,27 @@ MapPosition=0,25,11
 #-------------------------------
 [227]
 # Route 13
-ShowArea=true
 MapPosition=0,24,13
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [228]
 # Route 13
-ShowArea=true
 MapPosition=0,24,13
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [229]
 # Route 14
-ShowArea=true
 MapPosition=0,23,14
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [230]
 # Route 15
-ShowArea=true
 MapPosition=0,21,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [231]
 # Route 15
@@ -1148,14 +1148,14 @@ Bicycle=true
 #-------------------------------
 [232]
 # Power Plant
-ShowArea=true
 MapPosition=0,25,7
+ShowArea=true
 #-------------------------------
 [234]
 # Saffron City
-ShowArea=true
 MapPosition=0,21,8
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [235]
 # Saffron City
@@ -1179,63 +1179,63 @@ MapPosition=0,21,8
 #-------------------------------
 [240]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [241]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [242]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [243]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [244]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [245]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [246]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [247]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [248]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [249]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [250]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [251]
 # Silph Co.
-ShowArea=true
 MapPosition=0,21,8
+ShowArea=true
 #-------------------------------
 [252]
 # Saffron City
@@ -1251,63 +1251,63 @@ MapPosition=0,21,8
 #-------------------------------
 [255]
 # Route 19
-ShowArea=true
 MapPosition=0,18,16
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [256]
 # Route 20
-ShowArea=true
 MapPosition=0,15,17
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [257]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [258]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [259]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [260]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [261]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [262]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [263]
 # Seafoam Islands
-ShowArea=true
 MapPosition=0,16,17
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [264]
 # Cinnabar Island
-ShowArea=true
 MapPosition=0,13,17
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [265]
 # Cinnabar Island
@@ -1327,23 +1327,23 @@ MapPosition=0,13,17
 #-------------------------------
 [269]
 # Pokémon Mansion
-ShowArea=true
 MapPosition=0,13,17
+ShowArea=true
 #-------------------------------
 [270]
 # Pokémon Mansion
-ShowArea=true
 MapPosition=0,13,17
+ShowArea=true
 #-------------------------------
 [271]
 # Pokémon Mansion
-ShowArea=true
 MapPosition=0,13,17
+ShowArea=true
 #-------------------------------
 [272]
 # Pokémon Mansion
-ShowArea=true
 MapPosition=0,13,17
+ShowArea=true
 #-------------------------------
 [273]
 # Cinnabar Island
@@ -1351,9 +1351,9 @@ MapPosition=0,13,17
 #-------------------------------
 [274]
 # One Island
-ShowArea=true
 MapPosition=1,5,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [275]
 # One Island
@@ -1361,9 +1361,9 @@ MapPosition=1,5,11
 #-------------------------------
 [276]
 # Kindle Road
-ShowArea=true
 MapPosition=1,6,9
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [278]
 # One Island
@@ -1371,9 +1371,9 @@ MapPosition=1,5,11
 #-------------------------------
 [279]
 # Treasure Beach
-ShowArea=true
 MapPosition=1,5,13
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [280]
 # One Island
@@ -1385,55 +1385,55 @@ MapPosition=1,5,11
 #-------------------------------
 [282]
 # Faraway Island
-ShowArea=true
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [283]
 # Faraway Island
-ShowArea=true
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [284]
 # Ember Spa
-ShowArea=true
 MapPosition=1,6,9
+ShowArea=true
 #-------------------------------
 [285]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [286]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [287]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [288]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [289]
 # Mt. Ember
-ShowArea=true
 MapPosition=1,6,6
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [290]
 # Two Island
-ShowArea=true
-Weather=Rain,70
 MapPosition=1,13,12
 Outdoor=true
+ShowArea=true
+Weather=Rain,70
 #-------------------------------
 [291]
 # Two Island
@@ -1441,10 +1441,10 @@ MapPosition=1,13,12
 #-------------------------------
 [292]
 # Cape Brink
-ShowArea=true
-Weather=Rain,100
 MapPosition=1,13,10
 Outdoor=true
+ShowArea=true
+Weather=Rain,100
 #-------------------------------
 [293]
 # Two Island
@@ -1464,9 +1464,9 @@ MapPosition=1,13,12
 #-------------------------------
 [297]
 # Three Island
-ShowArea=true
 MapPosition=1,22,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [298]
 # Three Island
@@ -1474,14 +1474,14 @@ MapPosition=1,23,16
 #-------------------------------
 [299]
 # Three Isle Port
-ShowArea=true
 MapPosition=1,23,16
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [300]
 # Three Isle Path
-ShowArea=true
 MapPosition=1,22,16
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [301]
@@ -1514,21 +1514,21 @@ MapPosition=1,22,15
 #-------------------------------
 [308]
 # Bond Bridge
-ShowArea=true
 MapPosition=1,20,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [309]
 # Berry Forest
-ShowArea=true
 MapPosition=1,18,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [310]
 # Route 21
-ShowArea=true
 MapPosition=0,13,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [312]
 # Viridian City
@@ -1536,79 +1536,79 @@ MapPosition=0,12,9
 #-------------------------------
 [313]
 # Route 23
-ShowArea=true
 MapPosition=0,9,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [314]
 # Victory Road
-ShowArea=true
 MapPosition=0,9,9
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [315]
 # Victory Road
-ShowArea=true
 MapPosition=0,9,9
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [316]
 # Victory Road
-ShowArea=true
 MapPosition=0,9,9
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [317]
 # Indigo Plateau
-ShowArea=true
 MapPosition=0,9,8
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [318]
 # Pokémon League
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [319]
 # Pokémon League
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [320]
 # Pokémon League
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [321]
 # Pokémon League
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [322]
 # Pokémon League
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [323]
 # Pokémon League
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [324]
 # Hall of Fame
-ShowArea=true
 MapPosition=0,9,8
+ShowArea=true
 #-------------------------------
 [325]
 # Tanoby Key
-ShowArea=true
 MapPosition=3,10,13
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [326]
 # Sevault Cave
-ShowArea=true
 MapPosition=3,10,13
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [327]
@@ -1617,57 +1617,57 @@ MapPosition=3,10,13
 #-------------------------------
 [328]
 # Tanoby Ruins
-ShowArea=true
 MapPosition=3,10,15
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [329]
 # Monean Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [330]
 # Liptoo Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [331]
 # Weepth Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [332]
 # Dilford Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [333]
 # Scufib Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [334]
 # Rixy Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [335]
 # Viapois Chamber
-ShowArea=true
 MapPosition=3,13,15
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [340]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [341]
 # Navel Rock
@@ -1675,142 +1675,155 @@ MapPosition=2,14,11
 #-------------------------------
 [342]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [343]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [344]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [345]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [346]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [347]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [348]
 # Navel Rock
-ShowArea=true
 MapPosition=2,14,11
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [349]
 # Route 28
-ShowArea=true
 MapPosition=0,7,10
 Outdoor=true
+ShowArea=true
 Bicycle=true
 #-------------------------------
 [350]
 # Mt. Silver
-ShowArea=true
 MapPosition=0,6,10
 Outdoor=true
+ShowArea=true
 #-------------------------------
 [355]
 # Jewelspark Cave
-ShowArea=true
 Dungeon=true
+ShowArea=true
 #-------------------------------
 [356]
 # Berry Forest B1F
-ShowArea=true
 Dungeon=true
+ShowArea=true
 #-------------------------------
 [357]
 # Berry Forest B2F
-ShowArea=true
 Dungeon=true
+ShowArea=true
 #-------------------------------
 [358]
 # Berry Forest B3F
-ShowArea=true
 Dungeon=true
+ShowArea=true
 #-------------------------------
 [359]
 # Berry Forest B4F
-ShowArea=true
 Dungeon=true
+ShowArea=true
 #-------------------------------
 [360]
 # Cape Bellowe
-ShowArea=true
-Weather=Rain,70
 MapPosition=1,14,12
 Outdoor=true
+ShowArea=true
 Bicycle=true
+Weather=Rain,70
 #-------------------------------
 [362]
 # 3IP Dungeon
+Dungeon=true
 ShowArea=true
 Bicycle=false
-Dungeon=true
 #-------------------------------
 [363]
 # Cape Brink Path 1F
-ShowArea=true
 MapPosition=1,13,11
-Outdoor=false
-Bicycle=false
 Dungeon=true
+Outdoor=false
+ShowArea=true
+Bicycle=false
 #-------------------------------
 [364]
 # Cape Brink Path 2F
-ShowArea=true
 MapPosition=1,13,11
-Outdoor=false
-Bicycle=false
 Dungeon=true
+Outdoor=false
+ShowArea=true
+Bicycle=false
 #-------------------------------
 [365]
 # Cape Brink Path 3F
-ShowArea=true
 MapPosition=1,13,11
-Outdoor=false
-Bicycle=false
 Dungeon=true
+Outdoor=false
+ShowArea=true
+Bicycle=false
 #-------------------------------
 [366]
 # Cape Brink Path 4F
-ShowArea=true
 MapPosition=1,13,11
-Outdoor=false
-Bicycle=false
 Dungeon=true
+Outdoor=false
+ShowArea=true
+Bicycle=false
 #-------------------------------
 [367]
 # Cape Brink Path 5F
-ShowArea=true
 MapPosition=1,13,11
-Outdoor=false
-Bicycle=false
 Dungeon=true
+Outdoor=false
+ShowArea=true
+Bicycle=false
 #-------------------------------
 [371]
 # Route 26
 BattleBack=
-ShowArea=true
-Weather=Sunny,2
 Outdoor=true
+ShowArea=true
 Bicycle=true
+Weather=Sunny,2
+#-------------------------------
+[375]
+# Bellowe Rock
+MapPosition=1,14,14
+Outdoor=true
+ShowArea=true
+Bicycle=true
+Weather=Rain,70
+#-------------------------------
+[376]
+# MAP376
+Outdoor=true
+SnapEdges=true
