@@ -301,7 +301,7 @@ ONIX,16,,,,,,0,,,,SERIOUS
 YOUNGSTER
 Joey
 1
-RATTATA,15,,,,,,0,,1,,SERIOUS
+RATTATA,9,,,,,,0,,,,SERIOUS
 #-------------------------------
 YOUNGSTER
 Dan
@@ -3324,3 +3324,15 @@ BIKER
 Ward
 1
 GRIMER,4,,,,,,0,,,,SERIOUS
+#-------------------------------
+YOUNGSTER
+Mikey
+2
+PIDGEY,8,,,,,,0,,,,SERIOUS
+SENTRET,8,,,,,,0,,,,SERIOUS
+#-------------------------------
+BUGCATCHER
+Don
+2
+KAKUNA,9,TACKLE,STRINGSHOT,HARDEN,,,0,,,,SERIOUS
+METAPOD,9,POISONSTING,STRINGSHOT,HARDEN,,,0,,,,SERIOUS

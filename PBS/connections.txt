@@ -246,3 +246,9 @@
 360,South,0,375,North,11
 # Two Island (290) - Cape Bellowe (360)
 290,East,0,360,West,10
+# Route 30 (382) - Cherrygrove City (381)
+382,South,0,381,North,16
+# R3032Forest (383) - Cherrygrove City (381)
+383,South,64,381,North,0
+# R3032Forest (383) - Route 30 (382)
+383,East,0,382,West,14
