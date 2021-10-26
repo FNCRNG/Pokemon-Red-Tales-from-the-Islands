@@ -94,7 +94,7 @@ PIDGEY,9,,,,,,0,,,,SERIOUS
 BUGCATCHER
 Colton
 1
-CATERPIE,10,,,,,,0,,,,SERIOUS
+CATERPIE,6,,,,,,0,,,,SERIOUS
 #-------------------------------
 YOUNGSTER
 Ben
