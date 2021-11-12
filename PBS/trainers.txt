@@ -3323,7 +3323,7 @@ GRIMER,4,,,,,,0,,,,SERIOUS
 YOUNGSTER
 Joey
 1
-RATTATA,9,,,,,,0,,,,SERIOUS
+RATTATA,9,,,,,,0,,,,ADAMANT
 #-------------------------------
 YOUNGSTER
 Mikey
