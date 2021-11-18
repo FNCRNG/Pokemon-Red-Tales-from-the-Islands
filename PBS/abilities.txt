@@ -257,3 +257,4 @@
 257,STEELYSPIRIT,Steely Spirit,"Powers up ally Pokémon's Steel-type moves.",
 258,WANDERINGSPIRIT,Wandering Spirit,"Taking a direct contact hit exchanges Abilities.",
 259,QUICKDRAW,Quick Draw,"Enables the Pokémon to move first occasionally."
+260,RAGINGFURY,Raging Fury,"Boosts the power of multi-hit moves."
