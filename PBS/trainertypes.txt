@@ -87,4 +87,4 @@
 111,ROCKETADMIN_F,Team Rocket,120,,,frlg_trainerbadintro,Female,,
 112,POKEMONTRAINER_Anabel,Pokémon Trainer,120,,,,Female,,
 113,POKEMONTRAINER_Mina1,Pokémon Trainer,120,,,,Female,,
-114,,LEADER_Bugsy,Leader,120,frlg_gymbattle,frlg_gymvictory,,Male,,
+114,LEADER_Bugsy,Leader,255,frlg_gymbattle,frlg_gymvictory,,Male,,
